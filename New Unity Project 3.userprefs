@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1\Scripts\Main_Camera.cs">
+    <Files>
+      <File FileName="Assets\NGUI\Scripts\UI\UICamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\ChangeCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\ApplicationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\CameraFollowRotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\Main_Camera.cs" Line="100" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
