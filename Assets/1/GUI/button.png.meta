@@ -1,0 +1,5565 @@
+fileFormatVersion: 2
+guid: 356ca81a6acad4e4f9ac9899da61f51d
+timeCreated: 1510045036
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button_0
+    21300002: button_1
+    21300004: button_2
+    21300006: button_3
+    21300008: button_4
+    21300010: button_5
+    21300012: button_6
+    21300014: button_7
+    21300016: button_8
+    21300018: button_9
+    21300020: button_10
+    21300022: button_11
+    21300024: button_12
+    21300026: button_13
+    21300028: button_14
+    21300030: button_15
+    21300032: button_16
+    21300034: button_17
+    21300036: button_18
+    21300038: button_19
+    21300040: button_20
+    21300042: button_21
+    21300044: button_22
+    21300046: button_23
+    21300048: button_24
+    21300050: button_25
+    21300052: button_26
+    21300054: button_27
+    21300056: button_28
+    21300058: button_29
+    21300060: button_30
+    21300062: button_31
+    21300064: button_32
+    21300066: button_33
+    21300068: button_34
+    21300070: button_35
+    21300072: button_36
+    21300074: button_37
+    21300076: button_38
+    21300078: button_39
+    21300080: button_40
+    21300082: button_41
+    21300084: button_42
+    21300086: button_43
+    21300088: button_44
+    21300090: button_45
+    21300092: button_46
+    21300094: button_47
+    21300096: button_48
+    21300098: button_49
+    21300100: button_50
+    21300102: button_51
+    21300104: button_52
+    21300106: button_53
+    21300108: button_54
+    21300110: button_55
+    21300112: button_56
+    21300114: button_57
+    21300116: button_58
+    21300118: button_59
+    21300120: button_60
+    21300122: button_61
+    21300124: button_62
+    21300126: button_63
+    21300128: button_64
+    21300130: button_65
+    21300132: button_66
+    21300134: button_67
+    21300136: button_68
+    21300138: button_69
+    21300140: button_70
+    21300142: button_71
+    21300144: button_72
+    21300146: button_73
+    21300148: button_74
+    21300150: button_75
+    21300152: button_76
+    21300154: button_77
+    21300156: button_78
+    21300158: button_79
+    21300160: button_80
+    21300162: button_81
+    21300164: button_82
+    21300166: button_83
+    21300168: button_84
+    21300170: button_85
+    21300172: button_86
+    21300174: button_87
+    21300176: button_88
+    21300178: button_89
+    21300180: button_90
+    21300182: button_91
+    21300184: button_92
+    21300186: button_93
+    21300188: button_94
+    21300190: button_95
+    21300192: button_96
+    21300194: button_97
+    21300196: button_98
+    21300198: button_99
+    21300200: button_100
+    21300202: button_101
+    21300204: button_102
+    21300206: button_103
+    21300208: button_104
+    21300210: button_105
+    21300212: button_106
+    21300214: button_107
+    21300216: button_108
+    21300218: button_109
+    21300220: button_110
+    21300222: button_111
+    21300224: button_112
+    21300226: button_113
+    21300228: button_114
+    21300230: button_115
+    21300232: button_116
+    21300234: button_117
+    21300236: button_118
+    21300238: button_119
+    21300240: button_120
+    21300242: button_121
+    21300244: button_122
+    21300246: button_123
+    21300248: button_124
+    21300250: button_125
+    21300252: button_126
+    21300254: button_127
+    21300256: button_128
+    21300258: button_129
+    21300260: button_130
+    21300262: button_131
+    21300264: button_132
+    21300266: button_133
+    21300268: button_134
+    21300270: button_135
+    21300272: button_136
+    21300274: button_137
+    21300276: button_138
+    21300278: button_139
+    21300280: button_140
+    21300282: button_141
+    21300284: button_142
+    21300286: button_143
+    21300288: button_144
+    21300290: button_145
+    21300292: button_146
+    21300294: button_147
+    21300296: button_148
+    21300298: button_149
+    21300300: button_150
+    21300302: button_151
+    21300304: button_152
+    21300306: button_153
+    21300308: button_154
+    21300310: button_155
+    21300312: button_156
+    21300314: button_157
+    21300316: button_158
+    21300318: button_159
+    21300320: button_160
+    21300322: button_161
+    21300324: button_162
+    21300326: button_163
+    21300328: button_164
+    21300330: button_165
+    21300332: button_166
+    21300334: button_167
+    21300336: button_168
+    21300338: button_169
+    21300340: button_170
+    21300342: Pause
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: button_0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 7209
+        width: 473
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 203.6308, y: 117.5}
+        - {x: -196.12471, y: 117.5}
+        - {x: -236.46701, y: 87.76465}
+        - {x: -236.46701, y: -84.538086}
+        - {x: -196.12471, y: -117.5}
+        - {x: 203.6308, y: -117.5}
+        - {x: 236.5, y: -80.87207}
+        - {x: 236.5, y: 87.76465}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 7209
+        width: 473
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -196.57704, y: 117.5}
+        - {x: -236.5, y: 109.76074}
+        - {x: -236.5, y: -80.87207}
+        - {x: -229.58438, y: -117.5}
+        - {x: 203.17847, y: -117.5}
+        - {x: 236.5, y: -80.87207}
+        - {x: 236.5, y: 80.43262}
+        - {x: 199.51099, y: 117.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_2
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 7209
+        width: 473
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -229.37161, y: 117.5}
+        - {x: -236.5, y: 98.762695}
+        - {x: -236.5, y: -117.5}
+        - {x: 236.39856, y: -117.5}
+        - {x: 236.5, y: -80.87207}
+        - {x: 236.5, y: 106.09473}
+        - {x: 207.05872, y: 117.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_3
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 7209
+        width: 473
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 203.93405, y: 117.5}
+        - {x: -225.1613, y: 117.5}
+        - {x: -236.16376, y: 80.43262}
+        - {x: -236.16376, y: -106.53418}
+        - {x: -195.82146, y: -117.5}
+        - {x: 203.93405, y: -117.5}
+        - {x: 236.5, y: -80.87207}
+        - {x: 236.5, y: 87.76465}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_4
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 6887
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -73.083145, y: 141}
+        - {x: -139.09782, y: 86.541145}
+        - {x: -139.09782, y: -71.09752}
+        - {x: -131.76285, y: -89.4276}
+        - {x: -87.753075, y: -140.75182}
+        - {x: 106.62346, y: -140.75182}
+        - {x: 143, y: -89.4276}
+        - {x: 143, y: 68.21107}
+        - {x: 117.6259, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_5
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 6916
+        width: 473
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -236.36925, y: 117.5}
+        - {x: -236.36925, y: -109.91871}
+        - {x: -196.02695, y: -117.25074}
+        - {x: 236.5, y: -117.25074}
+        - {x: 236.5, y: 117.37425}
+        - {x: 203.72856, y: 117.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_6
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6461
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -83.865524, y: 143}
+        - {x: -142.5, y: 76.63369}
+        - {x: -142.5, y: -62.674904}
+        - {x: -124.207825, y: -143}
+        - {x: 136.18338, y: -143}
+        - {x: 142.5, y: -117.66514}
+        - {x: 142.5, y: 120.62588}
+        - {x: 66.50123, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_7
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 6461
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -120.611244, y: 143}
+        - {x: -138.94865, y: 124.29189}
+        - {x: -138.94865, y: -51.676857}
+        - {x: -131.6137, y: -103.001076}
+        - {x: -83.936424, y: -135.99521}
+        - {x: -65.599014, y: -143}
+        - {x: 88.43521, y: -143}
+        - {x: 143, y: -66.34092}
+        - {x: 143, y: 109.62783}
+        - {x: 92.1027, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_8
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 6461
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60.855762, y: 143}
+        - {x: -78.508545, y: 143}
+        - {x: -140.85573, y: 98.62978}
+        - {x: -140.85573, y: -77.33897}
+        - {x: -71.17358, y: -143}
+        - {x: 79.19317, y: -143}
+        - {x: 141, y: -51.676857}
+        - {x: 141, y: 65.63564}
+        - {x: 90.19562, y: 124.29189}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_9
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 6461
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -52.907074, y: 143}
+        - {x: -140.92664, y: 91.29775}
+        - {x: -140.92664, y: -66.34092}
+        - {x: -85.914406, y: -139.66122}
+        - {x: 90.12472, y: -139.66122}
+        - {x: 141, y: -99.33506}
+        - {x: 141, y: 94.96377}
+        - {x: 115.79709, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_10
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 6461
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -109.870445, y: 143}
+        - {x: -139.2103, y: 131.62392}
+        - {x: -139.2103, y: -135.99521}
+        - {x: -124.540375, y: -143}
+        - {x: 91.84105, y: -143}
+        - {x: 143, y: -92.00303}
+        - {x: 143, y: 116.95986}
+        - {x: 58.833714, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_11
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 6461
+        width: 284
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 106.60633, y: 142.62196}
+        - {x: 69.93152, y: 143}
+        - {x: -95.10516, y: 143}
+        - {x: -142, y: 98.62978}
+        - {x: -142, y: -70.006935}
+        - {x: -120.777534, y: -143}
+        - {x: 66.26404, y: -143}
+        - {x: 135.94618, y: -103.001076}
+        - {x: 142, y: -55.342873}
+        - {x: 142, y: 91.29775}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_12
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 6461
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -119.183304, y: 143}
+        - {x: -141, y: 54.637596}
+        - {x: -141, y: -62.674904}
+        - {x: -71.50604, y: -143}
+        - {x: 82.52819, y: -143}
+        - {x: 141, y: -88.33701}
+        - {x: 141, y: 94.96377}
+        - {x: 89.86315, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_13
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 6461
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64.24204, y: 143}
+        - {x: -141, y: 87.63174}
+        - {x: -141, y: -81.00498}
+        - {x: -82.579445, y: -143}
+        - {x: 75.12227, y: -143}
+        - {x: 100.79464, y: -135.99521}
+        - {x: 141, y: -81.00498}
+        - {x: 141, y: 69.30166}
+        - {x: 115.46456, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 6142
+        width: 285
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127.875305, y: 141.5}
+        - {x: -142.5, y: 89.408356}
+        - {x: -142.5, y: -97.55844}
+        - {x: -91.200485, y: -137.88461}
+        - {x: -69.195595, y: -141.5}
+        - {x: 92.1736, y: -141.5}
+        - {x: 142.5, y: -112.2225}
+        - {x: 142.5, y: 122.4025}
+        - {x: 73.83619, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 6142
+        width: 286
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73.76529, y: 141.5}
+        - {x: -113.27628, y: 141.5}
+        - {x: -138.94865, y: 93.07437}
+        - {x: -138.94865, y: -112.2225}
+        - {x: -87.603905, y: -141.5}
+        - {x: 73.76529, y: -141.5}
+        - {x: 143, y: -82.89438}
+        - {x: 143, y: -71.89633}
+        - {x: 143, y: 78.41031}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_16
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 6142
+        width: 282
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -78.508545, y: 141.5}
+        - {x: -93.17847, y: 140.73257}
+        - {x: -140.85573, y: 67.41226}
+        - {x: -140.85573, y: -42.568203}
+        - {x: -85.843506, y: -137.88461}
+        - {x: -63.838615, y: -141.5}
+        - {x: 97.53058, y: -141.5}
+        - {x: 141, y: -97.55844}
+        - {x: 141, y: 85.74234}
+        - {x: 112.20051, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_17
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 6142
+        width: 282
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -129.9242, y: 141.5}
+        - {x: -140.92664, y: 107.738434}
+        - {x: -140.92664, y: -115.88852}
+        - {x: -93.249374, y: -141.5}
+        - {x: 141, y: -141.5}
+        - {x: 141, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_18
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 6142
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -139.2103, y: 142.56558}
+        - {x: -139.2103, y: -117.72153}
+        - {x: -73.195625, y: -143}
+        - {x: 117.51342, y: -143}
+        - {x: 143, y: -117.72153}
+        - {x: 143, y: 76.5773}
+        - {x: 117.51342, y: 142.56558}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_19
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 6142
+        width: 284
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 139.61366, y: 87.57535}
+        - {x: 99.27137, y: 142.56558}
+        - {x: -84.102715, y: 142.56558}
+        - {x: -142, y: 127.90152}
+        - {x: -142, y: -73.72934}
+        - {x: -76.76775, y: -143}
+        - {x: 66.26404, y: -143}
+        - {x: 132.2787, y: -77.395355}
+        - {x: 142, y: -55.399258}
+        - {x: 142, y: 54.581207}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_20
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 6142
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -64.17108, y: 142.56558}
+        - {x: -104.51338, y: 127.90152}
+        - {x: -141, y: 47.249176}
+        - {x: -141, y: -92.05942}
+        - {x: -60.503597, y: -143}
+        - {x: 53.188335, y: -143}
+        - {x: 137.54042, y: -106.72348}
+        - {x: 141, y: -77.395355}
+        - {x: 141, y: 87.57535}
+        - {x: 78.8607, y: 142.56558}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_21
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 6142
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -141, y: 142.56558}
+        - {x: -141, y: -143}
+        - {x: 126.46701, y: -143}
+        - {x: 141, y: -128.71957}
+        - {x: 141, y: 142.56558}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_22
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5805
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -142.5, y: -117.4481}
+        - {x: -116.872856, y: -139.44418}
+        - {x: 88.50612, y: -139.44418}
+        - {x: 142.5, y: -113.78208}
+        - {x: 142.5, y: 106.178856}
+        - {x: 128.84842, y: 143}
+        - {x: -105.870415, y: 143}
+        - {x: -142.5, y: 87.84878}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_23
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5805
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 125.11003, y: 143}
+        - {x: -98.60635, y: 143}
+        - {x: -138.94865, y: 76.85073}
+        - {x: -138.94865, y: -110.116066}
+        - {x: -65.599014, y: -139.44418}
+        - {x: 84.76773, y: -139.44418}
+        - {x: 143, y: -77.121925}
+        - {x: 143, y: 76.85073}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_24
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 5805
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -115.18336, y: 143}
+        - {x: -140.85573, y: 65.852684}
+        - {x: -140.85573, y: -80.78794}
+        - {x: -82.176025, y: -135.77817}
+        - {x: -74.84106, y: -139.44418}
+        - {x: 68.19073, y: -139.44418}
+        - {x: 141, y: -110.116066}
+        - {x: 141, y: 76.85073}
+        - {x: 82.86066, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_25
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 5805
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 137.80197, y: 143}
+        - {x: -115.254265, y: 143}
+        - {x: -140.92664, y: 139.17299}
+        - {x: -140.92664, y: -62.45786}
+        - {x: -78.579445, y: -139.44418}
+        - {x: 82.78975, y: -139.44418}
+        - {x: 137.80197, y: -95.452}
+        - {x: 141, y: -55.125828}
+        - {x: 141, y: 131.84096}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_26
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 5802
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 66.16868, y: 142.5}
+        - {x: -65.860664, y: 142.5}
+        - {x: -139.2103, y: 114.17678}
+        - {x: -139.2103, y: -58.125946}
+        - {x: -80.530594, y: -138.77829}
+        - {x: 55.166233, y: -138.77829}
+        - {x: 139.51831, y: -83.788055}
+        - {x: 143, y: -39.79587}
+        - {x: 143, y: 77.51663}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_27
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 5802
+        width: 284
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -128.1125, y: 142.5}
+        - {x: -142, y: 92.18069}
+        - {x: -142, y: -102.11813}
+        - {x: -80.435234, y: -138.77829}
+        - {x: 73.599, y: -138.77829}
+        - {x: 142, y: -61.79196}
+        - {x: 142, y: 77.51663}
+        - {x: 66.26404, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_28
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 5802
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -82.50849, y: 142.5}
+        - {x: -141, y: 88.51467}
+        - {x: -141, y: -58.125946}
+        - {x: -97.17841, y: -138.77829}
+        - {x: 89.86315, y: -138.77829}
+        - {x: 141, y: -83.788055}
+        - {x: 141, y: 70.1846}
+        - {x: 111.86804, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_29
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 5802
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -78.911964, y: 142.5}
+        - {x: -141, y: 81.18265}
+        - {x: -141, y: -105.78415}
+        - {x: -64.24204, y: -138.77829}
+        - {x: 111.79708, y: -138.77829}
+        - {x: 141, y: -94.7861}
+        - {x: 141, y: 73.85062}
+        - {x: 108.1296, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_30
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5487
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -65.528114, y: 142.5}
+        - {x: -142.5, y: 107.12221}
+        - {x: -142.5, y: -120.17075}
+        - {x: -135.21027, y: -138.50084}
+        - {x: 142.5, y: -138.50084}
+        - {x: 142.5, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5487
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -124.278725, y: 142.5}
+        - {x: -138.94865, y: 140.11635}
+        - {x: -138.94865, y: -138.50084}
+        - {x: 66.43032, y: -138.50084}
+        - {x: 143, y: -105.50669}
+        - {x: 143, y: 107.12221}
+        - {x: 77.43277, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_32
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 5487
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -104.180916, y: 142.5}
+        - {x: -140.85573, y: 77.79408}
+        - {x: -140.85573, y: -94.508644}
+        - {x: -89.51099, y: -138.50084}
+        - {x: 60.855762, y: -138.50084}
+        - {x: 141, y: -101.840675}
+        - {x: 141, y: 88.79213}
+        - {x: 64.52325, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_33
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 5487
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.911964, y: 142.5}
+        - {x: -140.92664, y: 77.79408}
+        - {x: -140.92664, y: -68.846535}
+        - {x: -133.59167, y: -94.508644}
+        - {x: -63.90952, y: -138.50084}
+        - {x: 68.11983, y: -138.50084}
+        - {x: 101.12716, y: -131.16881}
+        - {x: 141, y: -76.178566}
+        - {x: 141, y: 70.46205}
+        - {x: 112.12961, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_34
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 5479
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -124.540375, y: 141}
+        - {x: -139.2103, y: 82.62498}
+        - {x: -139.2103, y: -100.675804}
+        - {x: -109.870445, y: -141}
+        - {x: 128.51587, y: -141}
+        - {x: 143, y: -64.01565}
+        - {x: 143, y: 82.62498}
+        - {x: 91.84105, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_35
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 5479
+        width: 284
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -142, y: -86.01174}
+        - {x: -95.10516, y: -141}
+        - {x: 66.26404, y: -141}
+        - {x: 142, y: -93.34377}
+        - {x: 142, y: 104.62107}
+        - {x: 135.94618, y: 141}
+        - {x: -139.11494, y: 141}
+        - {x: -142, y: 122.95115}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_36
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 5479
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 78.8607, y: 141}
+        - {x: -104.51338, y: 141}
+        - {x: -141, y: 82.62498}
+        - {x: -141, y: -141}
+        - {x: 130.20544, y: -141}
+        - {x: 141, y: -111.67385}
+        - {x: 141, y: 93.623024}
+        - {x: 141, y: 111.9531}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_37
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 5479
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 104.46212, y: 130.28317}
+        - {x: 64.11982, y: 141}
+        - {x: -89.91441, y: 141}
+        - {x: -141, y: 82.62498}
+        - {x: -141, y: -126.33791}
+        - {x: -97.249374, y: -141}
+        - {x: 111.79708, y: -141}
+        - {x: 137.46945, y: -97.00979}
+        - {x: 141, y: -49.351585}
+        - {x: 141, y: 82.62498}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_38
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5186
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -102.202934, y: 141}
+        - {x: -142.5, y: 119.56661}
+        - {x: -142.5, y: -107.72635}
+        - {x: -87.533005, y: -140.72049}
+        - {x: 73.83619, y: -140.72049}
+        - {x: 103.17604, y: -137.05447}
+        - {x: 142.5, y: -67.40018}
+        - {x: 142.5, y: 112.23458}
+        - {x: 62.833744, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5186
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73.76529, y: 141}
+        - {x: -80.26894, y: 141}
+        - {x: -135.28117, y: 93.9045}
+        - {x: -138.94865, y: 71.90841}
+        - {x: -138.94865, y: -67.40018}
+        - {x: -65.599014, y: -140.72049}
+        - {x: 121.44255, y: -140.72049}
+        - {x: 143, y: -52.73612}
+        - {x: 143, y: 90.23849}
+        - {x: 106.77262, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_40
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 5186
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -129.85329, y: 141}
+        - {x: -140.85573, y: 126.89864}
+        - {x: -140.85573, y: -56.402134}
+        - {x: -104.180916, y: -140.72049}
+        - {x: 64.52325, y: -140.72049}
+        - {x: 141, y: -96.7283}
+        - {x: 141, y: 123.23263}
+        - {x: 71.85821, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_41
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 5186
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -100.584335, y: 141}
+        - {x: -140.92664, y: 64.57638}
+        - {x: -140.92664, y: -89.39627}
+        - {x: -104.251816, y: -137.05447}
+        - {x: -85.914406, y: -140.72049}
+        - {x: 108.46212, y: -140.72049}
+        - {x: 141, y: -71.06619}
+        - {x: 141, y: 104.90255}
+        - {x: 93.7922, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_42
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 5164
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 66.16868, y: 142.5}
+        - {x: -65.860664, y: 142.5}
+        - {x: -139.2103, y: 114.06356}
+        - {x: -139.2103, y: -58.23917}
+        - {x: -80.530594, y: -138.89151}
+        - {x: 55.166233, y: -138.89151}
+        - {x: 139.51831, y: -83.901276}
+        - {x: 143, y: -39.909092}
+        - {x: 143, y: 77.403404}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_43
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 5164
+        width: 284
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -113.442566, y: 142.5}
+        - {x: -142, y: 95.73348}
+        - {x: -142, y: -83.901276}
+        - {x: -102.440125, y: -138.89151}
+        - {x: 91.93641, y: -138.89151}
+        - {x: 142, y: -113.2294}
+        - {x: 142, y: 114.06356}
+        - {x: 69.93152, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_44
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 5164
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -82.50849, y: 142.5}
+        - {x: -141, y: 88.40145}
+        - {x: -141, y: -58.23917}
+        - {x: -97.17841, y: -138.89151}
+        - {x: 89.86315, y: -138.89151}
+        - {x: 141, y: -83.901276}
+        - {x: 141, y: 70.07137}
+        - {x: 111.86804, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_45
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 5164
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -67.90952, y: 142.5}
+        - {x: -133.9242, y: 95.73348}
+        - {x: -141, y: 66.405365}
+        - {x: -141, y: -72.90323}
+        - {x: -89.91441, y: -138.89151}
+        - {x: 82.45723, y: -138.89151}
+        - {x: 141, y: -105.89737}
+        - {x: 141, y: 121.39559}
+        - {x: 78.78975, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4863
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -142.5, y: -95.28597}
+        - {x: -116.872856, y: -142.94418}
+        - {x: 142.5, y: -142.94418}
+        - {x: 142.5, y: 143}
+        - {x: -109.537895, y: 143}
+        - {x: -142.5, y: 113.67691}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4863
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -69.2665, y: 143}
+        - {x: -138.94865, y: 73.35074}
+        - {x: -138.94865, y: -131.94614}
+        - {x: -94.93887, y: -142.94418}
+        - {x: 128.77751, y: -142.94418}
+        - {x: 143, y: -124.6141}
+        - {x: 143, y: 99.01285}
+        - {x: 125.11003, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_48
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 4863
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -115.18336, y: 142.5}
+        - {x: -140.85573, y: 124.67496}
+        - {x: -140.85573, y: -117.28207}
+        - {x: -74.84106, y: -142.5}
+        - {x: 79.19317, y: -142.5}
+        - {x: 141, y: -69.62386}
+        - {x: 141, y: 124.67496}
+        - {x: 68.19073, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_49
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 4863
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.911964, y: 142.5}
+        - {x: -140.92664, y: 113.67691}
+        - {x: -140.92664, y: -65.95785}
+        - {x: -96.916855, y: -113.61605}
+        - {x: -63.90952, y: -142.5}
+        - {x: 141, y: -142.5}
+        - {x: 141, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_50
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 4863
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -79.02937, y: 142.5}
+        - {x: -141.37656, y: 73.35074}
+        - {x: -141.37656, y: -109.950035}
+        - {x: -60.691963, y: -142.5}
+        - {x: 89.67478, y: -142.5}
+        - {x: 141.5, y: -73.28988}
+        - {x: 141.5, y: 77.016754}
+        - {x: 75.00486, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_51
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 4863
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -93.77015, y: 142.5}
+        - {x: -141.4474, y: 113.67691}
+        - {x: -141.4474, y: -98.95199}
+        - {x: -86.43518, y: -142.5}
+        - {x: 100.606384, y: -142.5}
+        - {x: 115.27631, y: -139.27817}
+        - {x: 141.5, y: -98.95199}
+        - {x: 141.5, y: 69.68473}
+        - {x: 111.608826, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_52
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4863
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -93.84357, y: 142.5}
+        - {x: -137.85335, y: 99.01285}
+        - {x: -141.5, y: 91.68082}
+        - {x: -141.5, y: -98.95199}
+        - {x: -71.83868, y: -142.5}
+        - {x: 122.53785, y: -142.5}
+        - {x: 141.5, y: -128.28012}
+        - {x: 141.5, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_53
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 4863
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 67.288574, y: 143}
+        - {x: -97.7481, y: 143}
+        - {x: -138.09041, y: 117.342926}
+        - {x: -138.09041, y: -120.94808}
+        - {x: -94.08062, y: -142.94418}
+        - {x: 122.3008, y: -142.94418}
+        - {x: 142.5, y: -58.62582}
+        - {x: 142.5, y: 102.67886}
+        - {x: 122.3008, y: 132.00699}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_54
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4552
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -76.53056, y: 142.5}
+        - {x: -135.21027, y: 103.29017}
+        - {x: -142.5, y: 84.96009}
+        - {x: -142.5, y: -83.67663}
+        - {x: -83.865524, y: -138.66685}
+        - {x: 66.50123, y: -138.66685}
+        - {x: 142.5, y: -80.01061}
+        - {x: 142.5, y: 114.288216}
+        - {x: 70.16871, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_55
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4552
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 125.11003, y: 142.5}
+        - {x: -98.60635, y: 142.5}
+        - {x: -138.94865, y: 77.62806}
+        - {x: -138.94865, y: -109.33874}
+        - {x: -65.599014, y: -138.66685}
+        - {x: 84.76773, y: -138.66685}
+        - {x: 143, y: -76.3446}
+        - {x: 143, y: 77.62806}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_56
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 4552
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -140.85573, y: 142.5}
+        - {x: -140.85573, y: -135.00084}
+        - {x: -137.18825, y: -138.66685}
+        - {x: 75.52569, y: -138.66685}
+        - {x: 141, y: -109.33874}
+        - {x: 141, y: 81.294075}
+        - {x: 119.53547, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_57
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 4552
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 137.80197, y: 142.5}
+        - {x: -115.254265, y: 142.5}
+        - {x: -140.92664, y: 139.95032}
+        - {x: -140.92664, y: -61.680534}
+        - {x: -78.579445, y: -138.66685}
+        - {x: 82.78975, y: -138.66685}
+        - {x: 137.80197, y: -94.674675}
+        - {x: 141, y: -54.348503}
+        - {x: 141, y: 132.61829}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_58
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 4544
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 89.67478, y: 141}
+        - {x: -104.701744, y: 141}
+        - {x: -141.37656, y: 93.45699}
+        - {x: -141.37656, y: -126.50394}
+        - {x: -112.03671, y: -141}
+        - {x: 100.67723, y: -141}
+        - {x: 108.01219, y: -133.83597}
+        - {x: 141.5, y: -60.51566}
+        - {x: 141.5, y: 97.12301}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_59
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 4544
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -82.7677, y: 141}
+        - {x: -141.4474, y: 119.1191}
+        - {x: -141.4474, y: -38.519566}
+        - {x: -130.44496, y: -89.84379}
+        - {x: -90.10267, y: -141}
+        - {x: 71.26653, y: -141}
+        - {x: 141.5, y: -119.17191}
+        - {x: 141.5, y: 82.45895}
+        - {x: 93.27142, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_60
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4544
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -68.171196, y: 141}
+        - {x: -141.5, y: 108.121056}
+        - {x: -141.5, y: -130.16995}
+        - {x: -86.508606, y: -141}
+        - {x: 93.198, y: -141}
+        - {x: 141.5, y: -89.84379}
+        - {x: 141.5, y: 78.79293}
+        - {x: 96.86548, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_61
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 4544
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 103.963394, y: 141}
+        - {x: -79.41069, y: 141}
+        - {x: -138.09041, y: 100.789024}
+        - {x: -138.09041, y: -60.51566}
+        - {x: -112.41803, y: -141}
+        - {x: 107.630875, y: -141}
+        - {x: 142.5, y: -49.517612}
+        - {x: 142.5, y: 78.79293}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_62
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4221
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -76.53056, y: 142.55753}
+        - {x: -142.5, y: 69.23721}
+        - {x: -142.5, y: -37.077236}
+        - {x: -127.875305, y: -95.73348}
+        - {x: -102.202934, y: -143}
+        - {x: 136.18338, y: -143}
+        - {x: 142.5, y: -132.39365}
+        - {x: 142.5, y: 83.901276}
+        - {x: 114.17849, y: 142.55753}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_63
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4221
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 99.43766, y: 142.55753}
+        - {x: -72.93398, y: 142.55753}
+        - {x: -138.94865, y: 109.563385}
+        - {x: -138.94865, y: -81.06942}
+        - {x: -58.264053, y: -143}
+        - {x: 55.42788, y: -143}
+        - {x: 95.77018, y: -125.06161}
+        - {x: 132.44499, y: -81.06942}
+        - {x: 143, y: -26.07919}
+        - {x: 143, y: 91.23331}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_64
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 4221
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -63.838615, y: 142.55753}
+        - {x: -140.85573, y: 113.2294}
+        - {x: -140.85573, y: -73.73739}
+        - {x: -56.50365, y: -139.72568}
+        - {x: -19.828835, y: -143}
+        - {x: 57.188282, y: -143}
+        - {x: 141, y: -95.73348}
+        - {x: 141, y: 109.563385}
+        - {x: 101.19806, y: 142.55753}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_65
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 4221
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -111.58678, y: 142.55753}
+        - {x: -140.92664, y: 98.56534}
+        - {x: -140.92664, y: -51.7413}
+        - {x: -96.916855, y: -143}
+        - {x: 86.45723, y: -143}
+        - {x: 141, y: -73.73739}
+        - {x: 141, y: 120.56143}
+        - {x: 75.45479, y: 142.55753}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_66
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 4207
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -31.352112, y: 143}
+        - {x: -97.36678, y: 128.55757}
+        - {x: -141.37656, y: 88.2314}
+        - {x: -141.37656, y: -91.403366}
+        - {x: -60.691963, y: -142.72758}
+        - {x: 86.0073, y: -142.72758}
+        - {x: 141.5, y: -76.7393}
+        - {x: 141.5, y: 88.2314}
+        - {x: 71.33738, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_67
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 4207
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -82.7677, y: 143}
+        - {x: -141.4474, y: 69.90132}
+        - {x: -141.4474, y: -109.733444}
+        - {x: -60.762814, y: -142.72758}
+        - {x: 100.606384, y: -142.72758}
+        - {x: 141.5, y: -76.7393}
+        - {x: 141.5, y: 80.89937}
+        - {x: 63.93157, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_68
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 4207
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 71.19311, y: 143}
+        - {x: -53.50127, y: 143}
+        - {x: -141.5, y: 106.56148}
+        - {x: -141.5, y: -98.7354}
+        - {x: -86.508606, y: -139.06157}
+        - {x: -42.498825, y: -142.72758}
+        - {x: 74.86059, y: -142.72758}
+        - {x: 137.20778, y: -80.40532}
+        - {x: 141.5, y: -32.747112}
+        - {x: 141.5, y: 73.56734}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_69
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 4207
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -97.7481, y: 143}
+        - {x: -138.09041, y: 84.565384}
+        - {x: -138.09041, y: -106.06743}
+        - {x: -86.74566, y: -142.72758}
+        - {x: 89.293465, y: -142.72758}
+        - {x: 142.5, y: -54.743206}
+        - {x: 142.5, y: 121.22554}
+        - {x: 100.29591, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_70
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3928
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -113.205376, y: 141}
+        - {x: -142.5, y: 119.00991}
+        - {x: -142.5, y: -78.95493}
+        - {x: -109.537895, y: -141}
+        - {x: 106.84353, y: -141}
+        - {x: 142.5, y: -126.61314}
+        - {x: 142.5, y: 93.3478}
+        - {x: 73.83619, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_71
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3928
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -131.6137, y: 141}
+        - {x: -138.94865, y: 130.00795}
+        - {x: -138.94865, y: -108.28306}
+        - {x: -131.6137, y: -141}
+        - {x: 136.11247, y: -141}
+        - {x: 143, y: -60.62485}
+        - {x: 143, y: 97.01382}
+        - {x: 128.77751, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_72
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3928
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -140.85573, y: 141}
+        - {x: -140.85573, y: -141}
+        - {x: 82.86066, y: -141}
+        - {x: 141, y: -89.95298}
+        - {x: 141, y: 75.01772}
+        - {x: 104.86555, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_73
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3928
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -122.589226, y: 141}
+        - {x: -140.92664, y: 89.681786}
+        - {x: -140.92664, y: -119.281105}
+        - {x: -118.921745, y: -141}
+        - {x: 123.13205, y: -141}
+        - {x: 141, y: -75.28892}
+        - {x: 141, y: 86.01577}
+        - {x: 68.11983, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_74
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3910
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 108.01219, y: 143}
+        - {x: -82.69685, y: 143}
+        - {x: -141.37656, y: 88.1786}
+        - {x: -141.37656, y: -91.45617}
+        - {x: -49.689518, y: -142.78038}
+        - {x: 75.00486, y: -142.78038}
+        - {x: 93.34227, y: -131.78233}
+        - {x: 141.5, y: -73.12609}
+        - {x: 141.5, y: 58.850468}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_75
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 3910
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -123.11, y: 143}
+        - {x: -141.4474, y: 102.84266}
+        - {x: -141.4474, y: -113.45226}
+        - {x: -60.762814, y: -142.78038}
+        - {x: 85.936455, y: -142.78038}
+        - {x: 141.5, y: -80.45812}
+        - {x: 141.5, y: 99.17664}
+        - {x: 129.94624, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_76
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 3910
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -101.178535, y: 143}
+        - {x: -141.5, y: 102.84266}
+        - {x: -141.5, y: -65.79406}
+        - {x: -123.183426, y: -128.11632}
+        - {x: -101.178535, y: -142.78038}
+        - {x: 60.190662, y: -142.78038}
+        - {x: 141.5, y: -113.45226}
+        - {x: 141.5, y: 77.18055}
+        - {x: 111.53541, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_77
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 3910
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -61.073284, y: 143}
+        - {x: -138.09041, y: 80.846565}
+        - {x: -138.09041, y: -65.79406}
+        - {x: -105.08307, y: -142.78038}
+        - {x: 92.960945, y: -142.78038}
+        - {x: 142.5, y: -91.45617}
+        - {x: 142.5, y: 84.51258}
+        - {x: 70.956055, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_78
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3609
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -58.193153, y: 142.78218}
+        - {x: -138.87775, y: 95.12398}
+        - {x: -142.5, y: 87.79195}
+        - {x: -142.5, y: -62.514694}
+        - {x: -109.537895, y: -143}
+        - {x: 117.84597, y: -143}
+        - {x: 142.5, y: -99.17485}
+        - {x: 142.5, y: 139.11617}
+        - {x: 136.18338, y: 142.78218}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_79
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3609
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70.09781, y: 142.78218}
+        - {x: -113.27628, y: 142.78218}
+        - {x: -138.94865, y: 80.459915}
+        - {x: -138.94865, y: -88.1768}
+        - {x: -83.936424, y: -132.16899}
+        - {x: -47.26161, y: -143}
+        - {x: 48.092915, y: -143}
+        - {x: 139.77995, y: -84.51079}
+        - {x: 143, y: -44.184616}
+        - {x: 143, y: 91.45796}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_80
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3609
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -63.838615, y: 142.78218}
+        - {x: -100.513435, y: 135.45015}
+        - {x: -140.85573, y: 62.129833}
+        - {x: -140.85573, y: -44.184616}
+        - {x: -129.85329, y: -95.508835}
+        - {x: -85.843506, y: -143}
+        - {x: 79.19317, y: -143}
+        - {x: 141, y: -95.508835}
+        - {x: 141, y: 80.459915}
+        - {x: 71.85821, y: 142.78218}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_81
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3609
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -111.58678, y: 142.78218}
+        - {x: -140.92664, y: 65.79585}
+        - {x: -140.92664, y: -77.17876}
+        - {x: -89.58189, y: -139.50102}
+        - {x: -52.907074, y: -143}
+        - {x: 16.77508, y: -143}
+        - {x: 53.449898, y: -139.50102}
+        - {x: 141, y: -95.508835}
+        - {x: 141, y: 84.12593}
+        - {x: 126.79953, y: 142.78218}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_82
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3587
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 89.67478, y: 135.44633}
+        - {x: 71.33738, y: 142.5}
+        - {x: -82.69685, y: 142.5}
+        - {x: -141.37656, y: 84.12212}
+        - {x: -141.37656, y: -128.50677}
+        - {x: -93.6993, y: -142.5}
+        - {x: 104.34471, y: -142.5}
+        - {x: 137.35205, y: -106.51069}
+        - {x: 141.5, y: -66.18452}
+        - {x: 141.5, y: 87.78814}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_83
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 3587
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71.76526, y: 142.77837}
+        - {x: -141.4474, y: 109.78423}
+        - {x: -141.4474, y: -95.51264}
+        - {x: -119.44252, y: -143}
+        - {x: 71.26653, y: -143}
+        - {x: 141.5, y: -106.51069}
+        - {x: 141.5, y: 113.45025}
+        - {x: 107.941345, y: 142.77837}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_84
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 3587
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71.83868, y: 142.77837}
+        - {x: -104.846016, y: 135.44633}
+        - {x: -141.5, y: 80.45611}
+        - {x: -141.5, y: -47.854435}
+        - {x: -123.183426, y: -102.84467}
+        - {x: -93.84357, y: -143}
+        - {x: 107.86793, y: -143}
+        - {x: 141.5, y: -110.176704}
+        - {x: 141.5, y: 91.454155}
+        - {x: 129.87282, y: 142.77837}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_85
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 3587
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70.956055, y: 142.77837}
+        - {x: -83.07818, y: 142.77837}
+        - {x: -138.09041, y: 98.78619}
+        - {x: -138.09041, y: -121.17475}
+        - {x: -97.7481, y: -143}
+        - {x: 111.298355, y: -143}
+        - {x: 142.5, y: -73.51655}
+        - {x: 142.5, y: 102.4522}
+        - {x: 122.3008, y: 135.44633}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_86
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3298
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -120.540344, y: 142.5}
+        - {x: -142.5, y: 114.065575}
+        - {x: -142.5, y: -58.237156}
+        - {x: -109.537895, y: -142.5}
+        - {x: 142.5, y: -142.5}
+        - {x: 142.5, y: 114.065575}
+        - {x: 95.84108, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_87
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3298
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -113.27628, y: 142.5}
+        - {x: -138.94865, y: 117.73159}
+        - {x: -138.94865, y: -76.56723}
+        - {x: -135.28117, y: -105.895355}
+        - {x: -61.931538, y: -142.5}
+        - {x: 51.760395, y: -142.5}
+        - {x: 143, y: -91.23129}
+        - {x: 143, y: 114.065575}
+        - {x: 77.43277, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_88
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3298
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -140.85573, y: 142.5}
+        - {x: -140.85573, y: -142.5}
+        - {x: 126.87044, y: -142.5}
+        - {x: 141, y: -127.89145}
+        - {x: 141, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_89
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3298
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -78.579445, y: 142.5}
+        - {x: -140.92664, y: 73.7394}
+        - {x: -140.92664, y: -54.57114}
+        - {x: -129.9242, y: -87.56528}
+        - {x: -93.249374, y: -142.5}
+        - {x: 101.12716, y: -142.5}
+        - {x: 141, y: -58.237156}
+        - {x: 141, y: 110.39956}
+        - {x: 101.12716, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_90
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 3276
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57.024483, y: 142.5}
+        - {x: -141.37656, y: 110.39553}
+        - {x: -141.37656, y: -61.907196}
+        - {x: -82.69685, y: -138.89352}
+        - {x: 126.3496, y: -138.89352}
+        - {x: 141.5, y: -72.90524}
+        - {x: 141.5, y: 92.06546}
+        - {x: 71.33738, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_91
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 3276
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 89.603935, y: 142.5}
+        - {x: -60.762814, y: 142.5}
+        - {x: -141.4474, y: 117.72756}
+        - {x: -141.4474, y: -65.57321}
+        - {x: -90.10267, y: -138.89352}
+        - {x: 89.603935, y: -138.89352}
+        - {x: 141.5, y: -80.237274}
+        - {x: 141.5, y: 55.4053}
+        - {x: 115.27631, y: 121.39358}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_92
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 3276
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 78.52807, y: 142.5}
+        - {x: -64.503716, y: 142.5}
+        - {x: -141.5, y: 114.06155}
+        - {x: -141.5, y: -69.23923}
+        - {x: -71.83868, y: -138.89352}
+        - {x: 71.19311, y: -138.89352}
+        - {x: 141.5, y: -72.90524}
+        - {x: 141.5, y: 66.40335}
+        - {x: 137.20778, y: 99.397484}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_93
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 3276
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -97.7481, y: 142.5}
+        - {x: -138.09041, y: 92.06546}
+        - {x: -138.09041, y: -116.89743}
+        - {x: -112.41803, y: -138.89352}
+        - {x: 67.288574, y: -138.89352}
+        - {x: 140.63821, y: -102.23337}
+        - {x: 142.5, y: -76.57126}
+        - {x: 142.5, y: 92.06546}
+        - {x: 70.956055, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_94
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2993
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -65.528114, y: 142.67299}
+        - {x: -142.5, y: 84.01674}
+        - {x: -142.5, y: -66.2899}
+        - {x: -87.533005, y: -143}
+        - {x: 73.83619, y: -143}
+        - {x: 103.17604, y: -128.61217}
+        - {x: 142.5, y: -88.285995}
+        - {x: 142.5, y: 73.01869}
+        - {x: 114.17849, y: 142.67299}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_95
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2993
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -80.26894, y: 142.67299}
+        - {x: -138.94865, y: 109.67884}
+        - {x: -138.94865, y: -84.61998}
+        - {x: -80.26894, y: -143}
+        - {x: 62.76284, y: -143}
+        - {x: 139.77995, y: -84.61998}
+        - {x: 143, y: -44.293808}
+        - {x: 143, y: 98.6808}
+        - {x: 110.4401, y: 142.67299}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_96
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2993
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -63.838615, y: 142.67299}
+        - {x: -100.513435, y: 135.34096}
+        - {x: -140.85573, y: 62.02064}
+        - {x: -140.85573, y: -44.293808}
+        - {x: -129.85329, y: -95.61803}
+        - {x: -85.843506, y: -143}
+        - {x: 79.19317, y: -143}
+        - {x: 141, y: -95.61803}
+        - {x: 141, y: 80.35072}
+        - {x: 71.85821, y: 142.67299}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_97
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2993
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -115.254265, y: 142.67299}
+        - {x: -140.92664, y: 124.3429}
+        - {x: -140.92664, y: -106.61607}
+        - {x: -71.244484, y: -143}
+        - {x: 68.11983, y: -143}
+        - {x: 141, y: -77.28795}
+        - {x: 141, y: 124.3429}
+        - {x: 75.45479, y: 142.67299}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_98
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2979
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -115.70419, y: 141}
+        - {x: -141.37656, y: 86.513626}
+        - {x: -141.37656, y: -96.787155}
+        - {x: -75.36189, y: -140.77934}
+        - {x: 141.01953, y: -140.77934}
+        - {x: 141.5, y: -118.78325}
+        - {x: 141.5, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_99
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2979
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -93.77015, y: 141}
+        - {x: -141.4474, y: 75.51558}
+        - {x: -141.4474, y: -93.12114}
+        - {x: -82.7677, y: -140.77934}
+        - {x: 78.601494, y: -140.77934}
+        - {x: 141.5, y: -115.11723}
+        - {x: 141.5, y: 123.17378}
+        - {x: 82.268974, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_100
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2979
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 141.5, y: 126.8398}
+        - {x: 118.87037, y: 141}
+        - {x: -115.84846, y: 141}
+        - {x: -141.5, y: 93.84566}
+        - {x: -141.5, y: -85.78911}
+        - {x: -90.17609, y: -126.11528}
+        - {x: -38.831345, y: -140.77934}
+        - {x: 56.523182, y: -140.77934}
+        - {x: 82.19556, y: -122.449265}
+        - {x: 126.20534, y: -78.45708}
+        - {x: 141.5, y: -49.12895}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_101
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2979
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -117.085655, y: 141}
+        - {x: -139.09055, y: 104.843704}
+        - {x: -139.09055, y: -52.794964}
+        - {x: -80.410835, y: -133.44731}
+        - {x: -69.40839, y: -140.77934}
+        - {x: 84.62584, y: -140.77934}
+        - {x: 143, y: -74.79106}
+        - {x: 143, y: 119.50777}
+        - {x: 77.29088, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_102
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2682
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -39.855743, y: 141}
+        - {x: -80.198044, y: 137.78526}
+        - {x: -142.5, y: 60.798935}
+        - {x: -142.5, y: -49.181534}
+        - {x: -138.87775, y: -96.83974}
+        - {x: -91.200485, y: -140.83192}
+        - {x: 70.16871, y: -140.83192}
+        - {x: 142.5, y: -104.17177}
+        - {x: 142.5, y: 75.463}
+        - {x: 84.83864, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_103
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2682
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 117.77507, y: 141}
+        - {x: -105.941315, y: 141}
+        - {x: -135.28117, y: 53.466904}
+        - {x: -138.94865, y: 38.80284}
+        - {x: -138.94865, y: -63.845596}
+        - {x: -65.599014, y: -140.83192}
+        - {x: 55.42788, y: -140.83192}
+        - {x: 125.11003, y: -118.83583}
+        - {x: 143, y: -49.181534}
+        - {x: 143, y: 108.45714}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_104
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2682
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 60.855762, y: 141}
+        - {x: -71.17358, y: 141}
+        - {x: -140.85573, y: 119.455185}
+        - {x: -140.85573, y: -96.83974}
+        - {x: -56.50365, y: -140.83192}
+        - {x: 123.20295, y: -140.83192}
+        - {x: 141, y: -67.51161}
+        - {x: 141, y: 93.793076}
+        - {x: 93.8631, y: 137.78526}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_105
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2682
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -78.579445, y: 141}
+        - {x: -140.92664, y: 86.461044}
+        - {x: -140.92664, y: -126.16786}
+        - {x: -137.25916, y: -140.83192}
+        - {x: 90.12472, y: -140.83192}
+        - {x: 141, y: -126.16786}
+        - {x: 141, y: 64.46495}
+        - {x: 112.12961, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_106
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2671
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -68.02693, y: 143}
+        - {x: -141.37656, y: 80.96001}
+        - {x: -141.37656, y: -135.33492}
+        - {x: -104.701744, y: -142.66695}
+        - {x: 137.35205, y: -142.66695}
+        - {x: 141.5, y: -128.00288}
+        - {x: 141.5, y: 66.295944}
+        - {x: 115.34716, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_107
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2671
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -130.44496, y: 143}
+        - {x: -141.4474, y: 121.28618}
+        - {x: -141.4474, y: -65.68062}
+        - {x: -115.77504, y: -142.66695}
+        - {x: 85.936455, y: -142.66695}
+        - {x: 141.5, y: -62.0146}
+        - {x: 141.5, y: 80.96001}
+        - {x: 129.94624, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_108
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2671
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71.83868, y: 143}
+        - {x: -141.5, y: 73.627975}
+        - {x: -141.5, y: -117.00484}
+        - {x: -90.17609, y: -142.66695}
+        - {x: 137.20778, y: -142.66695}
+        - {x: 141.5, y: -117.00484}
+        - {x: 141.5, y: 110.28813}
+        - {x: 78.52807, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_109
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 2671
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -68.40825, y: 143}
+        - {x: -138.09041, y: 88.29204}
+        - {x: -138.09041, y: -87.67671}
+        - {x: -39.068394, y: -142.66695}
+        - {x: 85.625984, y: -142.66695}
+        - {x: 142.5, y: -69.346634}
+        - {x: 142.5, y: 95.62407}
+        - {x: 81.9585, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_110
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2363
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -65.528114, y: 143}
+        - {x: -142.5, y: 106.56752}
+        - {x: -142.5, y: -120.72545}
+        - {x: -135.21027, y: -139.05553}
+        - {x: 142.5, y: -139.05553}
+        - {x: 142.5, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_111
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2363
+        width: 286
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 106.77262, y: 135.89565}
+        - {x: 66.43032, y: 143}
+        - {x: -83.936424, y: 143}
+        - {x: -138.94865, y: 77.239395}
+        - {x: -138.94865, y: -65.735214}
+        - {x: -102.273834, y: -139.05553}
+        - {x: 110.4401, y: -139.05553}
+        - {x: 139.77995, y: -84.06529}
+        - {x: 143, y: -43.73912}
+        - {x: 143, y: 84.57143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_112
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2363
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -104.180916, y: 143}
+        - {x: -140.85573, y: 77.239395}
+        - {x: -140.85573, y: -95.06334}
+        - {x: -89.51099, y: -139.05553}
+        - {x: 60.855762, y: -139.05553}
+        - {x: 141, y: -102.39537}
+        - {x: 141, y: 88.23744}
+        - {x: 64.52325, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_113
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2363
+        width: 282
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -74.911964, y: 143}
+        - {x: -140.92664, y: 77.239395}
+        - {x: -140.92664, y: -69.40123}
+        - {x: -133.59167, y: -95.06334}
+        - {x: -63.90952, y: -139.05553}
+        - {x: 68.11983, y: -139.05553}
+        - {x: 101.12716, y: -131.7235}
+        - {x: 141, y: -76.73326}
+        - {x: 141, y: 69.907364}
+        - {x: 112.12961, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_114
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2344
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -75.36189, y: 141.5}
+        - {x: -141.37656, y: 71.07045}
+        - {x: -141.37656, y: -79.23619}
+        - {x: -68.02693, y: -141.5}
+        - {x: 111.67967, y: -141.5}
+        - {x: 141.5, y: -82.90221}
+        - {x: 141.5, y: 93.06654}
+        - {x: 64.00241, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_115
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2344
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -112.10756, y: 141.5}
+        - {x: -141.4474, y: 104.06459}
+        - {x: -141.4474, y: -64.57213}
+        - {x: -119.44252, y: -141.5}
+        - {x: 67.599045, y: -141.5}
+        - {x: 141.5, y: -108.564316}
+        - {x: 141.5, y: 63.738415}
+        - {x: 104.273865, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_116
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2344
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -79.173645, y: 141.5}
+        - {x: -141.5, y: 107.730606}
+        - {x: -141.5, y: -75.570175}
+        - {x: -101.178535, y: -141.5}
+        - {x: 100.53296, y: -141.5}
+        - {x: 141.5, y: -130.56041}
+        - {x: 141.5, y: 111.39662}
+        - {x: 111.53541, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_117
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2344
+        width: 286
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -47.4035, y: 141.5}
+        - {x: -98.748245, y: 137.05873}
+        - {x: -139.09055, y: 78.40248}
+        - {x: -139.09055, y: -112.23033}
+        - {x: -47.4035, y: -141.5}
+        - {x: 69.95592, y: -141.5}
+        - {x: 143, y: -86.56822}
+        - {x: 143, y: 96.73256}
+        - {x: 58.953472, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_118
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2062
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127.875305, y: 141}
+        - {x: -142.5, y: 89.68358}
+        - {x: -142.5, y: -97.28322}
+        - {x: -91.200485, y: -137.60939}
+        - {x: -69.195595, y: -141}
+        - {x: 92.1736, y: -141}
+        - {x: 142.5, y: -111.94728}
+        - {x: 142.5, y: 122.67772}
+        - {x: 73.83619, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2062
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -109.608795, y: 141}
+        - {x: -138.94865, y: 75.019516}
+        - {x: -138.94865, y: -86.28517}
+        - {x: -94.93887, y: -141}
+        - {x: 81.10025, y: -141}
+        - {x: 143, y: -100.949234}
+        - {x: 143, y: 130.00975}
+        - {x: 110.4401, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_120
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2062
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -78.508545, y: 141}
+        - {x: -93.17847, y: 141}
+        - {x: -140.85573, y: 67.687485}
+        - {x: -140.85573, y: -42.292984}
+        - {x: -85.843506, y: -137.60939}
+        - {x: -63.838615, y: -141}
+        - {x: 97.53058, y: -141}
+        - {x: 141, y: -97.28322}
+        - {x: 141, y: 86.01756}
+        - {x: 112.20051, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_121
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2062
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -85.914406, y: 141}
+        - {x: -140.92664, y: 115.34569}
+        - {x: -140.92664, y: -89.95119}
+        - {x: -115.254265, y: -141}
+        - {x: 75.45479, y: -141}
+        - {x: 141, y: -93.6172}
+        - {x: 141, y: 104.34764}
+        - {x: 134.13449, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_122
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 2044
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -75.36189, y: 141}
+        - {x: -141.37656, y: 71.68354}
+        - {x: -141.37656, y: -78.6231}
+        - {x: -68.02693, y: -140.94536}
+        - {x: 111.67967, y: -140.94536}
+        - {x: 141.5, y: -82.289116}
+        - {x: 141.5, y: 93.679634}
+        - {x: 64.00241, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_123
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2044
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -101.10511, y: 141}
+        - {x: -141.4474, y: 126.673775}
+        - {x: -141.4474, y: -74.957085}
+        - {x: -126.77748, y: -140.94536}
+        - {x: 85.936455, y: -140.94536}
+        - {x: 141.5, y: -56.627007}
+        - {x: 141.5, y: 86.3476}
+        - {x: 85.936455, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_124
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 2044
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -93.84357, y: 141}
+        - {x: -112.18098, y: 141}
+        - {x: -141.5, y: 64.35151}
+        - {x: -141.5, y: -78.6231}
+        - {x: -130.51839, y: -93.28716}
+        - {x: -71.83868, y: -140.94536}
+        - {x: 52.8557, y: -140.94536}
+        - {x: 129.87282, y: -107.951225}
+        - {x: 141.5, y: -82.289116}
+        - {x: 141.5, y: 64.35151}
+        - {x: 107.86793, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_125
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 2044
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -58.405945, y: 141}
+        - {x: -139.09055, y: 115.67573}
+        - {x: -139.09055, y: -89.62115}
+        - {x: -109.75069, y: -140.94536}
+        - {x: 77.29088, y: -140.94536}
+        - {x: 143, y: -82.289116}
+        - {x: 143, y: 82.68159}
+        - {x: 106.63073, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_126
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1751
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 114.17849, y: 141}
+        - {x: -61.860634, y: 141}
+        - {x: -135.21027, y: 93.961006}
+        - {x: -142.5, y: 79.29694}
+        - {x: -142.5, y: -67.34368}
+        - {x: -87.533005, y: -140.66399}
+        - {x: 62.833744, y: -140.66399}
+        - {x: 95.84108, y: -125.99993}
+        - {x: 142.5, y: -74.67571}
+        - {x: 142.5, y: 64.63288}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_127
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1751
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73.76529, y: 141}
+        - {x: -80.26894, y: 141}
+        - {x: -135.28117, y: 93.961006}
+        - {x: -138.94865, y: 71.96491}
+        - {x: -138.94865, y: -67.34368}
+        - {x: -65.599014, y: -140.66399}
+        - {x: 121.44255, y: -140.66399}
+        - {x: 143, y: -52.67962}
+        - {x: 143, y: 90.29499}
+        - {x: 106.77262, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_128
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1751
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 108.53303, y: 134.28717}
+        - {x: 64.52325, y: 141}
+        - {x: -78.508545, y: 141}
+        - {x: -140.85573, y: 112.291084}
+        - {x: -140.85573, y: -104.00384}
+        - {x: -78.508545, y: -140.66399}
+        - {x: 97.53058, y: -140.66399}
+        - {x: 119.53547, y: -133.33195}
+        - {x: 141, y: -63.677666}
+        - {x: 141, y: 90.29499}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_129
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1751
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -111.58678, y: 141}
+        - {x: -140.92664, y: 71.96491}
+        - {x: -140.92664, y: -129.66594}
+        - {x: -133.59167, y: -140.66399}
+        - {x: 141, y: -140.66399}
+        - {x: 141, y: 119.623116}
+        - {x: 86.45723, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_130
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1732
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -86.364334, y: 143}
+        - {x: -137.70908, y: 98.7901}
+        - {x: -141.37656, y: 84.12604}
+        - {x: -141.37656, y: -80.84466}
+        - {x: -57.024483, y: -143}
+        - {x: 64.00241, y: -143}
+        - {x: 141.5, y: -99.174736}
+        - {x: 141.5, y: 91.45807}
+        - {x: 75.00486, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_131
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1732
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71.76526, y: 143}
+        - {x: -130.44496, y: 98.7901}
+        - {x: -141.4474, y: 54.797916}
+        - {x: -141.4474, y: -55.182552}
+        - {x: -104.77259, y: -139.50092}
+        - {x: -82.7677, y: -143}
+        - {x: 118.943794, y: -143}
+        - {x: 141.5, y: -102.84075}
+        - {x: 141.5, y: 124.45221}
+        - {x: 60.264084, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_132
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1732
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -108.5135, y: 143}
+        - {x: -141.5, y: 113.45416}
+        - {x: -141.5, y: -77.17864}
+        - {x: -119.51594, y: -143}
+        - {x: 78.52807, y: -143}
+        - {x: 141.5, y: -66.180595}
+        - {x: 141.5, y: 106.12213}
+        - {x: 71.19311, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_133
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1732
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -105.08307, y: 143}
+        - {x: -138.09041, y: 80.46002}
+        - {x: -138.09041, y: -91.842705}
+        - {x: -79.41069, y: -143}
+        - {x: 78.29102, y: -143}
+        - {x: 142.5, y: -88.17669}
+        - {x: 142.5, y: 84.12604}
+        - {x: 70.956055, y: 143}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_134
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1436
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -116.872856, y: 142.5}
+        - {x: -142.5, y: 63.077217}
+        - {x: -142.5, y: -79.89739}
+        - {x: -135.21027, y: -87.22942}
+        - {x: -80.198044, y: -138.55363}
+        - {x: 66.50123, y: -138.55363}
+        - {x: 136.18338, y: -112.89153}
+        - {x: 142.5, y: -68.899345}
+        - {x: 142.5, y: 74.075264}
+        - {x: 88.50612, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_135
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1436
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 70.09781, y: 142.5}
+        - {x: -54.596573, y: 142.5}
+        - {x: -138.94865, y: 107.069405}
+        - {x: -138.94865, y: -98.22747}
+        - {x: -131.6137, y: -116.55755}
+        - {x: -61.931538, y: -138.55363}
+        - {x: 81.10025, y: -138.55363}
+        - {x: 143, y: -87.22942}
+        - {x: 143, y: -57.9013}
+        - {x: 143, y: 81.407295}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_136
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1436
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -96.84595, y: 142.5}
+        - {x: -140.85573, y: 125.39948}
+        - {x: -140.85573, y: -120.223564}
+        - {x: -78.508545, y: -138.55363}
+        - {x: 108.53303, y: -138.55363}
+        - {x: 141, y: -101.893486}
+        - {x: 141, y: 85.07331}
+        - {x: 108.53303, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_137
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1436
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -82.246925, y: 142.5}
+        - {x: -140.92664, y: 88.73933}
+        - {x: -140.92664, y: -61.567314}
+        - {x: -126.25671, y: -90.89544}
+        - {x: -93.249374, y: -138.55363}
+        - {x: 112.12961, y: -138.55363}
+        - {x: 141, y: -101.893486}
+        - {x: 141, y: 81.407295}
+        - {x: 119.46457, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_138
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1425
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -57.024483, y: 142.5}
+        - {x: -141.37656, y: 110.733406}
+        - {x: -141.37656, y: -61.569324}
+        - {x: -82.69685, y: -138.55565}
+        - {x: 126.3496, y: -138.55565}
+        - {x: 141.5, y: -72.567375}
+        - {x: 141.5, y: 92.40333}
+        - {x: 71.33738, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_139
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1424
+        width: 283
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 89.603935, y: 143}
+        - {x: -60.762814, y: 143}
+        - {x: -141.4474, y: 117.065475}
+        - {x: -141.4474, y: -66.235306}
+        - {x: -90.10267, y: -139.55562}
+        - {x: 89.603935, y: -139.55562}
+        - {x: 141.5, y: -80.89937}
+        - {x: 141.5, y: 54.743206}
+        - {x: 115.27631, y: 120.73149}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_140
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1425
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 78.52807, y: 142.5}
+        - {x: -64.503716, y: 142.5}
+        - {x: -141.5, y: 114.39942}
+        - {x: -141.5, y: -68.90136}
+        - {x: -71.83868, y: -138.55565}
+        - {x: 71.19311, y: -138.55565}
+        - {x: 141.5, y: -72.567375}
+        - {x: 141.5, y: 66.74122}
+        - {x: 137.20778, y: 99.73536}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_141
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1424
+        width: 285
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 67.288574, y: 143}
+        - {x: -105.08307, y: 143}
+        - {x: -138.09041, y: 80.40532}
+        - {x: -138.09041, y: -99.22945}
+        - {x: -127.08796, y: -113.89351}
+        - {x: -57.405804, y: -139.55562}
+        - {x: 78.29102, y: -139.55562}
+        - {x: 142.5, y: -69.90132}
+        - {x: 142.5, y: 109.733444}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_142
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1105
+        width: 285
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 84.83864, y: 141.5}
+        - {x: -109.537895, y: 141.5}
+        - {x: -142.5, y: 104.1777}
+        - {x: -142.5, y: -57.12699}
+        - {x: -113.205376, y: -141.44534}
+        - {x: 73.83619, y: -141.44534}
+        - {x: 92.1736, y: -123.11527}
+        - {x: 142.5, y: -64.45902}
+        - {x: 142.5, y: 126.17379}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_143
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1105
+        width: 286
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73.76529, y: 141.5}
+        - {x: -61.931538, y: 141.5}
+        - {x: -98.60635, y: 137.17183}
+        - {x: -138.94865, y: 89.51363}
+        - {x: -138.94865, y: -60.793007}
+        - {x: -113.27628, y: -141.44534}
+        - {x: 73.76529, y: -141.44534}
+        - {x: 143, y: -75.45707}
+        - {x: 143, y: 45.521446}
+        - {x: 128.77751, y: 89.51363}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_144
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1105
+        width: 282
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 90.19562, y: 141.5}
+        - {x: -104.180916, y: 141.5}
+        - {x: -140.85573, y: 104.1777}
+        - {x: -140.85573, y: -108.45121}
+        - {x: -49.168686, y: -141.44534}
+        - {x: 71.85821, y: -141.44534}
+        - {x: 134.2054, y: -97.45316}
+        - {x: 141, y: -75.45707}
+        - {x: 141, y: 111.50973}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_145
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1105
+        width: 282
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -67.576996, y: 141.5}
+        - {x: -140.92664, y: 82.1816}
+        - {x: -140.92664, y: -97.45316}
+        - {x: -129.9242, y: -141.44534}
+        - {x: 126.79953, y: -141.44534}
+        - {x: 141, y: -137.77933}
+        - {x: 141, y: 60.18551}
+        - {x: 112.12961, y: 141.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_146
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1102
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 100.67723, y: 142.5}
+        - {x: -79.02937, y: 142.5}
+        - {x: -141.37656, y: 110.34284}
+        - {x: -141.37656, y: -116.95013}
+        - {x: -130.37411, y: -142.5}
+        - {x: 97.00975, y: -142.5}
+        - {x: 141.5, y: -61.959892}
+        - {x: 141.5, y: 59.018623}
+        - {x: 137.35205, y: 95.67878}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_147
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1102
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -119.44252, y: 142.5}
+        - {x: -141.4474, y: 51.686592}
+        - {x: -141.4474, y: -65.62591}
+        - {x: -86.43518, y: -127.94817}
+        - {x: -64.43029, y: -142.5}
+        - {x: 85.936455, y: -142.5}
+        - {x: 141.5, y: -83.955986}
+        - {x: 141.5, y: 73.682686}
+        - {x: 74.93401, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_148
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1102
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 63.858147, y: 142.5}
+        - {x: -119.51594, y: 142.5}
+        - {x: -141.5, y: 77.3487}
+        - {x: -141.5, y: -142.5}
+        - {x: 137.20778, y: -142.5}
+        - {x: 141.5, y: -113.28411}
+        - {x: 141.5, y: 70.01667}
+        - {x: 137.20778, y: 106.67683}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_149
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 1102
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -138.09041, y: -54.62786}
+        - {x: -86.74566, y: -142.5}
+        - {x: 81.9585, y: -142.5}
+        - {x: 142.5, y: -116.95013}
+        - {x: 142.5, y: 73.682686}
+        - {x: 142.5, y: 88.34675}
+        - {x: 111.298355, y: 142.5}
+        - {x: -90.41314, y: 142.5}
+        - {x: -138.09041, y: 128.67291}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_150
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 772
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73.83619, y: 137.77933}
+        - {x: 37.161373, y: 141}
+        - {x: -98.53545, y: 141}
+        - {x: -142.5, y: 137.77933}
+        - {x: -142.5, y: -140.83784}
+        - {x: 84.83864, y: -140.83784}
+        - {x: 139.85086, y: -78.51559}
+        - {x: 142.5, y: -56.519493}
+        - {x: 142.5, y: 71.79105}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_151
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 772
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -113.27628, y: 141}
+        - {x: -138.94865, y: 137.77933}
+        - {x: -138.94865, y: -115.17574}
+        - {x: -91.27139, y: -140.83784}
+        - {x: 117.77507, y: -140.83784}
+        - {x: 143, y: -100.51168}
+        - {x: 143, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_152
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 772
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -100.513435, y: 141}
+        - {x: -140.85573, y: 130.4473}
+        - {x: -140.85573, y: -115.17574}
+        - {x: -122.51832, y: -140.83784}
+        - {x: 104.86555, y: -140.83784}
+        - {x: 141, y: -118.84176}
+        - {x: 141, y: 123.11527}
+        - {x: 126.87044, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_153
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 772
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71.244484, y: 141}
+        - {x: -140.92664, y: 126.78129}
+        - {x: -140.92664, y: -93.17965}
+        - {x: -111.58678, y: -140.83784}
+        - {x: 130.46701, y: -140.83784}
+        - {x: 141, y: -49.18746}
+        - {x: 141, y: 97.45316}
+        - {x: 112.12961, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_154
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 768
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 75.00486, y: 141}
+        - {x: -130.37411, y: 141}
+        - {x: -141.37656, y: 100.785164}
+        - {x: -141.37656, y: -119.175766}
+        - {x: -115.70419, y: -141}
+        - {x: 126.3496, y: -141}
+        - {x: 141.5, y: -100.84569}
+        - {x: 141.5, y: 89.78712}
+        - {x: 141.01953, y: 111.78321}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_155
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 768
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -141.4474, y: -130.17381}
+        - {x: -134.11244, y: -141}
+        - {x: 141.5, y: -141}
+        - {x: 141.5, y: 97.11915}
+        - {x: 129.94624, y: 141}
+        - {x: -82.7677, y: 141}
+        - {x: -141.4474, y: 115.44923}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_156
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 768
+        width: 283
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -71.83868, y: 141}
+        - {x: -141.5, y: 89.78712}
+        - {x: -141.5, y: -64.18554}
+        - {x: -79.173645, y: -141}
+        - {x: 74.86059, y: -141}
+        - {x: 141.5, y: -78.849594}
+        - {x: 141.5, y: 86.1211}
+        - {x: 115.20289, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_157
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 768
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -58.405945, y: 141}
+        - {x: -131.75558, y: 100.785164}
+        - {x: -139.09055, y: 64.12501}
+        - {x: -139.09055, y: -115.50975}
+        - {x: -131.75558, y: -141}
+        - {x: 143, y: -141}
+        - {x: 143, y: 89.78712}
+        - {x: 73.6234, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_158
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 460
+        width: 285
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 84.83864, y: 141}
+        - {x: -109.537895, y: 141}
+        - {x: -142.5, y: 104.3965}
+        - {x: -142.5, y: -56.908184}
+        - {x: -113.205376, y: -141}
+        - {x: 73.83619, y: -141}
+        - {x: 92.1736, y: -122.89646}
+        - {x: 142.5, y: -64.24022}
+        - {x: 142.5, y: 126.39259}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_159
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 460
+        width: 286
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73.76529, y: 141}
+        - {x: -61.931538, y: 141}
+        - {x: -98.60635, y: 137.39064}
+        - {x: -138.94865, y: 89.73244}
+        - {x: -138.94865, y: -60.5742}
+        - {x: -113.27628, y: -141}
+        - {x: 73.76529, y: -141}
+        - {x: 143, y: -75.238266}
+        - {x: 143, y: 45.74025}
+        - {x: 128.77751, y: 89.73244}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_160
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 460
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 101.19806, y: 141}
+        - {x: -78.508545, y: 141}
+        - {x: -140.85573, y: 115.39455}
+        - {x: -140.85573, y: -108.2324}
+        - {x: -67.506096, y: -141}
+        - {x: 82.86066, y: -141}
+        - {x: 134.2054, y: -93.568344}
+        - {x: 141, y: -60.5742}
+        - {x: 141, y: 89.73244}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_161
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 460
+        width: 282
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -126.25671, y: 141}
+        - {x: -140.92664, y: 130.05861}
+        - {x: -140.92664, y: -89.90233}
+        - {x: -118.921745, y: -141}
+        - {x: 141, y: -141}
+        - {x: 141, y: 126.39259}
+        - {x: 90.12472, y: 141}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_162
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 446
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -141.37656, y: -83.73925}
+        - {x: -79.02937, y: -138.72948}
+        - {x: 97.00975, y: -138.72948}
+        - {x: 141.5, y: -76.40722}
+        - {x: 141.5, y: 142.5}
+        - {x: -141.37656, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_163
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 446
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -46.092884, y: 142.5}
+        - {x: -104.77259, y: 136.22168}
+        - {x: -141.4474, y: 92.2295}
+        - {x: -141.4474, y: -54.411125}
+        - {x: -115.77504, y: -138.72948}
+        - {x: 111.608826, y: -138.72948}
+        - {x: 141.5, y: -127.73144}
+        - {x: 141.5, y: 128.88965}
+        - {x: 107.941345, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_164
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 446
+        width: 283
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -60.836235, y: 142.5}
+        - {x: -141.5, y: 106.89356}
+        - {x: -141.5, y: -65.40917}
+        - {x: -101.178535, y: -138.72948}
+        - {x: 96.86548, y: -138.72948}
+        - {x: 141.5, y: -76.40722}
+        - {x: 141.5, y: 103.22755}
+        - {x: 78.52807, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_165
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 446
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -68.40825, y: 142.5}
+        - {x: -138.09041, y: 121.557625}
+        - {x: -138.09041, y: -94.7373}
+        - {x: -127.08796, y: -138.72948}
+        - {x: 78.29102, y: -138.72948}
+        - {x: 142.5, y: -65.40917}
+        - {x: 142.5, y: 84.89747}
+        - {x: 67.288574, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_166
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 138
+        width: 286
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 73.50367, y: 142.5}
+        - {x: -106.202934, y: 142.5}
+        - {x: -139.21027, y: 114.1709}
+        - {x: -139.21027, y: -80.12793}
+        - {x: -109.870415, y: -142.4502}
+        - {x: 113.84597, y: -142.4502}
+        - {x: 143, y: -83.793945}
+        - {x: 143, y: 106.83887}
+        - {x: 128.5159, y: 132.50098}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_167
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 138
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 96.43765, y: 142.5}
+        - {x: -75.93398, y: 142.5}
+        - {x: -138.28117, y: 84.84277}
+        - {x: -138.28117, y: -120.4541}
+        - {x: -86.93643, y: -142.4502}
+        - {x: 125.77751, y: -142.4502}
+        - {x: 142.5, y: -98.45801}
+        - {x: 142.5, y: 55.51465}
+        - {x: 122.11003, y: 136.16699}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_168
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 138
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 86.19561, y: 142.5}
+        - {x: -122.850845, y: 142.5}
+        - {x: -141, y: 77.51074}
+        - {x: -141, y: -83.793945}
+        - {x: -93.510994, y: -142.4502}
+        - {x: 82.52813, y: -142.4502}
+        - {x: 137.54036, y: -83.793945}
+        - {x: 141, y: -69.12988}
+        - {x: 141, y: 81.17676}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_169
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 138
+        width: 282
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -141, y: 44.5166}
+        - {x: -141, y: -72.7959}
+        - {x: -100.916855, y: -142.4502}
+        - {x: 108.1296, y: -142.4502}
+        - {x: 141, y: -120.4541}
+        - {x: 141, y: 81.17676}
+        - {x: 78.78975, y: 142.5}
+        - {x: -56.907078, y: 142.5}
+        - {x: -130.25671, y: 99.506836}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: button_170
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 141
+        width: 285
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -127.42059, y: 142.5}
+        - {x: -138.42303, y: 109.838875}
+        - {x: -138.42303, y: -121.12011}
+        - {x: -57.738438, y: -142.5}
+        - {x: 107.29824, y: -142.5}
+        - {x: 142.5, y: -106.45605}
+        - {x: 142.5, y: 142.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Pause
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4545
+        width: 315
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -84.52812, y: 142.11539}
+        - {x: -139.54034, y: 127.451324}
+        - {x: -139.54034, y: -103.50766}
+        - {x: -73.52567, y: -143.83383}
+        - {x: 131.8533, y: -143.83383}
+        - {x: 146.52322, y: -129.16977}
+        - {x: 146.52322, y: 142.11539}
+      tessellationDetail: 0
+    outline:
+    - - {x: -1430.3179, y: -3325.0762}
+      - {x: -1448.6553, y: -3328.7422}
+      - {x: -1448.6553, y: -3541.371}
+      - {x: -1389.9756, y: -3611.0254}
+      - {x: -1367.9707, y: -3622.0234}
+      - {x: -1177.2616, y: -3622.0234}
+      - {x: -1151.5892, y: -3537.705}
+      - {x: -1151.5892, y: -3325.0762}
+    - - {x: -1100.2445, y: -3325.0762}
+      - {x: -1129.5844, y: -3391.0645}
+      - {x: -1129.5844, y: -3537.705}
+      - {x: -1048.8998, y: -3622.0234}
+      - {x: -902.2005, y: -3622.0234}
+      - {x: -832.5184, y: -3534.039}
+      - {x: -832.5184, y: -3350.7383}
+      - {x: -905.868, y: -3325.0762}
+    - - {x: -722.4939, y: -3325.0762}
+      - {x: -799.511, y: -3347.0723}
+      - {x: -799.511, y: -3552.3691}
+      - {x: -770.17114, y: -3622.0234}
+      - {x: -506.1125, y: -3622.0234}
+      - {x: -506.1125, y: -3336.0742}
+      - {x: -520.7824, y: -3325.0762}
+    - - {x: -421.7604, y: -3325.0762}
+      - {x: -480.4401, y: -3383.7324}
+      - {x: -480.4401, y: -3589.0293}
+      - {x: -392.42053, y: -3622.0234}
+      - {x: -231.05135, y: -3622.0234}
+      - {x: -187.04156, y: -3556.0352}
+      - {x: -187.04156, y: -3369.0684}
+      - {x: -249.38876, y: -3325.0762}
+    - - {x: 1008.5575, y: -3563.3672}
+      - {x: 1052.5673, y: -3618.3574}
+      - {x: 1239.6088, y: -3618.3574}
+      - {x: 1305.6235, y: -3570.6992}
+      - {x: 1305.6235, y: -3369.0684}
+      - {x: 1257.9462, y: -3321.4102}
+      - {x: 1070.9047, y: -3321.4102}
+      - {x: 1008.5575, y: -3343.4062}
+    - - {x: 62.34719, y: -3017.1309}
+      - {x: 47.67726, y: -3046.459}
+      - {x: 47.67726, y: -3273.752}
+      - {x: 113.69193, y: -3314.0781}
+      - {x: 326.40588, y: -3314.0781}
+      - {x: 341.0758, y: -3295.748}
+      - {x: 341.0758, y: -3079.4531}
+      - {x: 300.7335, y: -3017.1309}
+    - - {x: 443.7653, y: -3017.1309}
+      - {x: 366.74817, y: -3035.461}
+      - {x: 366.74817, y: -3251.7559}
+      - {x: 436.43033, y: -3314.0781}
+      - {x: 597.7995, y: -3314.0781}
+      - {x: 660.1467, y: -3284.75}
+      - {x: 660.1467, y: -3061.123}
+      - {x: 601.467, y: -3017.1309}
+    - - {x: 711.49146, y: -3017.1309}
+      - {x: 696.82153, y: -3072.121}
+      - {x: 696.82153, y: -3277.418}
+      - {x: 733.49634, y: -3314.0781}
+      - {x: 964.54767, y: -3314.0781}
+      - {x: 990.2201, y: -3233.4258}
+      - {x: 990.2201, y: -3079.4531}
+      - {x: 920.5379, y: -3017.1309}
+    - - {x: 1067.2372, y: -3017.1309}
+      - {x: 1012.225, y: -3042.793}
+      - {x: 1012.225, y: -3237.0918}
+      - {x: 1048.8998, y: -3314.0781}
+      - {x: 1261.6138, y: -3314.0781}
+      - {x: 1309.291, y: -3233.4258}
+      - {x: 1309.291, y: -3072.121}
+      - {x: 1246.9437, y: -3017.1309}
+    - - {x: -1393.6431, y: -3006.1328}
+      - {x: -1444.9878, y: -3020.7969}
+      - {x: -1444.9878, y: -3259.088}
+      - {x: -1419.3154, y: -3299.414}
+      - {x: -1173.5941, y: -3299.414}
+      - {x: -1147.9218, y: -3207.7637}
+      - {x: -1147.9218, y: -3075.787}
+      - {x: -1191.9315, y: -3006.1328}
+    - - {x: -1103.912, y: -3006.1328}
+      - {x: -1125.9169, y: -3075.787}
+      - {x: -1125.9169, y: -3251.7559}
+      - {x: -1067.2372, y: -3299.414}
+      - {x: -891.19806, y: -3299.414}
+      - {x: -828.8509, y: -3222.4277}
+      - {x: -828.8509, y: -3053.791}
+      - {x: -898.533, y: -3006.1328}
+    - - {x: -759.1687, y: -3006.1328}
+      - {x: -795.8435, y: -3068.455}
+      - {x: -795.8435, y: -3266.42}
+      - {x: -715.15894, y: -3299.414}
+      - {x: -561.1247, y: -3299.414}
+      - {x: -502.445, y: -3248.0898}
+      - {x: -502.445, y: -3068.455}
+      - {x: -539.1198, y: -3006.1328}
+    - - {x: -440.0978, y: -3006.1328}
+      - {x: -476.7726, y: -3042.793}
+      - {x: -476.7726, y: -3218.7617}
+      - {x: -432.76285, y: -3299.414}
+      - {x: -249.38876, y: -3299.414}
+      - {x: -183.37408, y: -3233.4258}
+      - {x: -183.37408, y: -3046.459}
+      - {x: -256.72372, y: -3006.1328}
+    - - {x: 51.344746, y: -2698.1875}
+      - {x: 47.67726, y: -2709.1855}
+      - {x: 47.67726, y: -2932.8125}
+      - {x: 117.35941, y: -2991.4688}
+      - {x: 264.0587, y: -2991.4688}
+      - {x: 300.7335, y: -2976.8047}
+      - {x: 341.0758, y: -2903.4844}
+      - {x: 341.0758, y: -2716.5176}
+      - {x: 286.06357, y: -2698.1875}
+    - - {x: 586.79706, y: -2698.1875}
+      - {x: 425.4279, y: -2698.1875}
+      - {x: 366.74817, y: -2764.1758}
+      - {x: 366.74817, y: -2925.4805}
+      - {x: 440.0978, y: -2991.4688}
+      - {x: 634.47437, y: -2991.4688}
+      - {x: 660.1467, y: -2932.8125}
+      - {x: 660.1467, y: -2734.8477}
+      - {x: 616.1369, y: -2709.1855}
+    - - {x: 781.1736, y: -2698.1875}
+      - {x: 696.82153, y: -2712.8516}
+      - {x: 696.82153, y: -2973.1387}
+      - {x: 729.82886, y: -2991.4688}
+      - {x: 909.53546, y: -2991.4688}
+      - {x: 990.2201, y: -2962.1406}
+      - {x: 990.2201, y: -2764.1758}
+      - {x: 931.54034, y: -2698.1875}
+    - - {x: 1078.2396, y: -2698.1875}
+      - {x: 1012.225, y: -2753.1777}
+      - {x: 1012.225, y: -2914.4824}
+      - {x: 1023.2274, y: -2947.4766}
+      - {x: 1067.2372, y: -2991.4688}
+      - {x: 1228.6063, y: -2991.4688}
+      - {x: 1309.291, y: -2951.1426}
+      - {x: 1309.291, y: -2731.1816}
+      - {x: 1221.2714, y: -2698.1875}
+    - - {x: -1371.6382, y: -2694.5215}
+      - {x: -1444.9878, y: -2731.1816}
+      - {x: -1444.9878, y: -2943.8105}
+      - {x: -1382.6406, y: -2987.8027}
+      - {x: -1235.9413, y: -2987.8027}
+      - {x: -1195.599, y: -2980.4707}
+      - {x: -1147.9218, y: -2943.8105}
+      - {x: -1147.9218, y: -2742.1797}
+      - {x: -1162.5917, y: -2694.5215}
+    - - {x: -1063.5697, y: -2694.5215}
+      - {x: -1125.9169, y: -2709.1855}
+      - {x: -1125.9169, y: -2969.4727}
+      - {x: -1070.9047, y: -2987.8027}
+      - {x: -854.52325, y: -2987.8027}
+      - {x: -828.8509, y: -2910.8164}
+      - {x: -828.8509, y: -2742.1797}
+      - {x: -887.5306, y: -2694.5215}
+    - - {x: -762.8362, y: -2694.5215}
+      - {x: -795.8435, y: -2775.1738}
+      - {x: -795.8435, y: -2969.4727}
+      - {x: -788.50854, y: -2987.8027}
+      - {x: -528.1174, y: -2987.8027}
+      - {x: -502.445, y: -2943.8105}
+      - {x: -502.445, y: -2771.5078}
+      - {x: -528.1174, y: -2694.5215}
+    - - {x: -476.7726, y: -2694.5215}
+      - {x: -476.7726, y: -2914.4824}
+      - {x: -443.7653, y: -2987.8027}
+      - {x: -242.05379, y: -2987.8027}
+      - {x: -183.37408, y: -2962.1406}
+      - {x: -183.37408, y: -2694.5215}
+    - - {x: 99.022, y: -2360.914}
+      - {x: 47.67726, y: -2386.5762}
+      - {x: 47.67726, y: -2602.871}
+      - {x: 55.012226, y: -2657.8613}
+      - {x: 300.7335, y: -2657.8613}
+      - {x: 341.0758, y: -2621.2012}
+      - {x: 341.0758, y: -2382.9102}
+      - {x: 278.7286, y: -2360.914}
+    - - {x: 366.74817, y: -2360.914}
+      - {x: 366.74817, y: -2569.877}
+      - {x: 403.42297, y: -2657.8613}
+      - {x: 601.467, y: -2657.8613}
+      - {x: 660.1467, y: -2591.873}
+      - {x: 660.1467, y: -2404.9062}
+      - {x: 649.1443, y: -2360.914}
+    - - {x: 968.21515, y: -2360.914}
+      - {x: 762.8362, y: -2360.914}
+      - {x: 696.82153, y: -2386.5762}
+      - {x: 696.82153, y: -2580.875}
+      - {x: 762.8362, y: -2646.8633}
+      - {x: 806.84595, y: -2657.8613}
+      - {x: 968.21515, y: -2657.8613}
+      - {x: 990.2201, y: -2584.541}
+      - {x: 990.2201, y: -2382.9102}
+    - - {x: 1096.577, y: -2360.914}
+      - {x: 1012.225, y: -2397.5742}
+      - {x: 1012.225, y: -2628.5332}
+      - {x: 1063.5697, y: -2657.8613}
+      - {x: 1257.9462, y: -2657.8613}
+      - {x: 1309.291, y: -2591.873}
+      - {x: 1309.291, y: -2448.8984}
+      - {x: 1272.6162, y: -2360.914}
+    - - {x: -1422.9829, y: -2360.914}
+      - {x: -1444.9878, y: -2426.9023}
+      - {x: -1444.9878, y: -2599.205}
+      - {x: -1382.6406, y: -2654.1953}
+      - {x: -1206.6014, y: -2654.1953}
+      - {x: -1147.9218, y: -2591.873}
+      - {x: -1147.9218, y: -2415.9043}
+      - {x: -1162.5917, y: -2360.914}
+    - - {x: -1096.577, y: -2360.914}
+      - {x: -1125.9169, y: -2401.2402}
+      - {x: -1125.9169, y: -2610.2031}
+      - {x: -1122.2494, y: -2621.2012}
+      - {x: -1045.2323, y: -2654.1953}
+      - {x: -898.533, y: -2654.1953}
+      - {x: -828.8509, y: -2573.543}
+      - {x: -828.8509, y: -2386.5762}
+      - {x: -883.8631, y: -2360.914}
+    - - {x: -766.50366, y: -2360.914}
+      - {x: -795.8435, y: -2404.9062}
+      - {x: -795.8435, y: -2595.539}
+      - {x: -748.16626, y: -2654.1953}
+      - {x: -575.7946, y: -2654.1953}
+      - {x: -502.445, y: -2617.5352}
+      - {x: -502.445, y: -2404.9062}
+      - {x: -561.1247, y: -2360.914}
+    - - {x: -242.05379, y: -2360.914}
+      - {x: -451.10025, y: -2360.914}
+      - {x: -476.7726, y: -2412.2383}
+      - {x: -476.7726, y: -2588.207}
+      - {x: -399.7555, y: -2654.1953}
+      - {x: -271.39365, y: -2654.1953}
+      - {x: -187.04156, y: -2606.537}
+      - {x: -183.37408, y: -2602.871}
+      - {x: -183.37408, y: -2386.5762}
+    - - {x: 80.6846, y: -2038.3047}
+      - {x: 47.67726, y: -2118.957}
+      - {x: 47.67726, y: -2298.5918}
+      - {x: 106.35697, y: -2335.252}
+      - {x: 289.73105, y: -2335.252}
+      - {x: 341.0758, y: -2261.9316}
+      - {x: 341.0758, y: -2060.3008}
+      - {x: 286.06357, y: -2038.3047}
+    - - {x: 410.75797, y: -2038.3047}
+      - {x: 396.088, y: -2045.6367}
+      - {x: 366.74817, y: -2115.291}
+      - {x: 366.74817, y: -2258.2656}
+      - {x: 425.4279, y: -2320.588}
+      - {x: 443.7653, y: -2335.252}
+      - {x: 601.467, y: -2335.252}
+      - {x: 660.1467, y: -2280.2617}
+      - {x: 660.1467, y: -2071.2988}
+      - {x: 568.45966, y: -2038.3047}
+    - - {x: 718.8264, y: -2038.3047}
+      - {x: 696.82153, y: -2100.627}
+      - {x: 696.82153, y: -2298.5918}
+      - {x: 759.1687, y: -2335.252}
+      - {x: 964.54767, y: -2335.252}
+      - {x: 990.2201, y: -2254.5996}
+      - {x: 990.2201, y: -2074.9648}
+      - {x: 927.87286, y: -2038.3047}
+    - - {x: 1254.2787, y: -2038.3047}
+      - {x: 1096.577, y: -2038.3047}
+      - {x: 1012.225, y: -2104.293}
+      - {x: 1012.225, y: -2243.6016}
+      - {x: 1048.8998, y: -2335.252}
+      - {x: 1257.9462, y: -2335.252}
+      - {x: 1301.956, y: -2313.2559}
+      - {x: 1309.291, y: -2291.2598}
+      - {x: 1309.291, y: -2129.955}
+      - {x: 1279.9512, y: -2045.6367}
+    - - {x: -1382.6406, y: -2027.3066}
+      - {x: -1444.9878, y: -2060.3008}
+      - {x: -1444.9878, y: -2258.2656}
+      - {x: -1419.3154, y: -2324.254}
+      - {x: -1206.6014, y: -2324.254}
+      - {x: -1147.9218, y: -2294.9258}
+      - {x: -1147.9218, y: -2085.963}
+      - {x: -1177.2616, y: -2027.3066}
+    - - {x: -1114.9144, y: -2027.3066}
+      - {x: -1118.5819, y: -2030.9727}
+      - {x: -1125.9169, y: -2071.2988}
+      - {x: -1125.9169, y: -2294.9258}
+      - {x: -1059.9022, y: -2324.254}
+      - {x: -858.19073, y: -2324.254}
+      - {x: -828.8509, y: -2272.9297}
+      - {x: -828.8509, y: -2063.9668}
+      - {x: -883.8631, y: -2027.3066}
+    - - {x: -762.8362, y: -2027.3066}
+      - {x: -795.8435, y: -2067.6328}
+      - {x: -795.8435, y: -2243.6016}
+      - {x: -770.17114, y: -2324.254}
+      - {x: -502.445, y: -2324.254}
+      - {x: -502.445, y: -2056.6348}
+      - {x: -583.1296, y: -2027.3066}
+    - - {x: -396.088, y: -2027.3066}
+      - {x: -476.7726, y: -2067.6328}
+      - {x: -476.7726, y: -2291.2598}
+      - {x: -443.7653, y: -2324.254}
+      - {x: -249.38876, y: -2324.254}
+      - {x: -183.37408, y: -2287.5938}
+      - {x: -183.37408, y: -2096.961}
+      - {x: -249.38876, y: -2027.3066}
+    - - {x: 106.35697, y: -1730.3594}
+      - {x: 47.67726, y: -1792.6816}
+      - {x: 47.67726, y: -1939.3223}
+      - {x: 84.35208, y: -2027.3066}
+      - {x: 275.06113, y: -2027.3066}
+      - {x: 341.0758, y: -1986.9805}
+      - {x: 341.0758, y: -1767.0195}
+      - {x: 260.3912, y: -1730.3594}
+    - - {x: 425.4279, y: -1730.3594}
+      - {x: 385.08557, y: -1734.0254}
+      - {x: 366.74817, y: -1774.3516}
+      - {x: 366.74817, y: -2001.6445}
+      - {x: 421.7604, y: -2027.3066}
+      - {x: 627.13934, y: -2027.3066}
+      - {x: 660.1467, y: -1990.6465}
+      - {x: 660.1467, y: -1785.3496}
+      - {x: 638.14185, y: -1730.3594}
+    - - {x: 744.4988, y: -1730.3594}
+      - {x: 700.489, y: -1778.0176}
+      - {x: 696.82153, y: -1800.0137}
+      - {x: 696.82153, y: -1961.3184}
+      - {x: 748.16626, y: -2012.6426}
+      - {x: 773.8386, y: -2027.3066}
+      - {x: 924.2054, y: -2027.3066}
+      - {x: 990.2201, y: -1961.3184}
+      - {x: 990.2201, y: -1741.3574}
+      - {x: 935.2078, y: -1730.3594}
+    - - {x: 1232.2738, y: -1730.3594}
+      - {x: 1067.2372, y: -1730.3594}
+      - {x: 1012.225, y: -1781.6836}
+      - {x: 1012.225, y: -1961.3184}
+      - {x: 1019.55994, y: -1979.6484}
+      - {x: 1103.912, y: -2027.3066}
+      - {x: 1195.599, y: -2027.3066}
+      - {x: 1261.6138, y: -2001.6445}
+      - {x: 1309.291, y: -1939.3223}
+      - {x: 1309.291, y: -1781.6836}
+    - - {x: -1191.9315, y: -1715.6953}
+      - {x: -1411.9805, y: -1715.6953}
+      - {x: -1444.9878, y: -1723.0273}
+      - {x: -1444.9878, y: -1942.9883}
+      - {x: -1371.6382, y: -2008.9766}
+      - {x: -1224.9388, y: -2008.9766}
+      - {x: -1147.9218, y: -1950.3203}
+      - {x: -1147.9218, y: -1803.6797}
+      - {x: -1155.2567, y: -1759.6875}
+    - - {x: -1063.5697, y: -1715.6953}
+      - {x: -1125.9169, y: -1767.0195}
+      - {x: -1125.9169, y: -1942.9883}
+      - {x: -1081.9071, y: -2008.9766}
+      - {x: -891.19806, y: -2008.9766}
+      - {x: -869.1932, y: -1997.9785}
+      - {x: -828.8509, y: -1950.3203}
+      - {x: -828.8509, y: -1781.6836}
+      - {x: -865.5257, y: -1715.6953}
+    - - {x: -777.5061, y: -1715.6953}
+      - {x: -795.8435, y: -1785.3496}
+      - {x: -795.8435, y: -1964.9844}
+      - {x: -740.8313, y: -2008.9766}
+      - {x: -531.78485, y: -2008.9766}
+      - {x: -502.445, y: -1950.3203}
+      - {x: -502.445, y: -1745.0234}
+      - {x: -542.7873, y: -1715.6953}
+    - - {x: -421.7604, y: -1715.6953}
+      - {x: -476.7726, y: -1748.6895}
+      - {x: -476.7726, y: -1957.6523}
+      - {x: -443.7653, y: -2008.9766}
+      - {x: -245.72127, y: -2008.9766}
+      - {x: -183.37408, y: -1979.6484}
+      - {x: -183.37408, y: -1730.3594}
+      - {x: -201.71149, y: -1715.6953}
+    - - {x: 47.67726, y: -1686.3672}
+      - {x: 88.01956, y: -1715.6953}
+      - {x: 264.0587, y: -1715.6953}
+      - {x: 341.0758, y: -1671.7031}
+      - {x: 341.0758, y: -1462.7402}
+      - {x: 315.40344, y: -1422.4141}
+      - {x: 69.68215, y: -1422.4141}
+      - {x: 47.67726, y: -1488.4023}
+    - - {x: 410.75797, y: -1422.4141}
+      - {x: 366.74817, y: -1477.4043}
+      - {x: 366.74817, y: -1631.377}
+      - {x: 407.09048, y: -1715.6953}
+      - {x: 605.13446, y: -1715.6953}
+      - {x: 660.1467, y: -1682.7012}
+      - {x: 660.1467, y: -1462.7402}
+      - {x: 649.1443, y: -1422.4141}
+    - - {x: 762.8362, y: -1422.4141}
+      - {x: 696.82153, y: -1481.0703}
+      - {x: 696.82153, y: -1701.0312}
+      - {x: 759.1687, y: -1715.6953}
+      - {x: 946.21027, y: -1715.6953}
+      - {x: 990.2201, y: -1675.3691}
+      - {x: 990.2201, y: -1492.0684}
+      - {x: 964.54767, y: -1422.4141}
+    - - {x: 1063.5697, y: -1422.4141}
+      - {x: 1012.225, y: -1506.7324}
+      - {x: 1012.225, y: -1646.041}
+      - {x: 1059.9022, y: -1715.6953}
+      - {x: 1257.9462, y: -1715.6953}
+      - {x: 1309.291, y: -1690.0332}
+      - {x: 1309.291, y: -1484.7363}
+      - {x: 1232.2738, y: -1422.4141}
+    - - {x: -1375.3057, y: -1404.084}
+      - {x: -1444.9878, y: -1477.4043}
+      - {x: -1444.9878, y: -1616.7129}
+      - {x: -1430.3179, y: -1653.373}
+      - {x: -1378.9731, y: -1697.3652}
+      - {x: -1221.2714, y: -1697.3652}
+      - {x: -1188.264, y: -1693.6992}
+      - {x: -1147.9218, y: -1657.0391}
+      - {x: -1147.9218, y: -1470.0723}
+      - {x: -1184.5966, y: -1404.084}
+    - - {x: -1103.912, y: -1404.084}
+      - {x: -1125.9169, y: -1470.0723}
+      - {x: -1125.9169, y: -1653.373}
+      - {x: -1074.5721, y: -1697.3652}
+      - {x: -847.1883, y: -1697.3652}
+      - {x: -828.8509, y: -1693.6992}
+      - {x: -828.8509, y: -1426.0801}
+      - {x: -887.5306, y: -1404.084}
+    - - {x: -553.78973, y: -1404.084}
+      - {x: -777.5061, y: -1404.084}
+      - {x: -795.8435, y: -1429.7461}
+      - {x: -795.8435, y: -1679.0352}
+      - {x: -766.50366, y: -1697.3652}
+      - {x: -535.45233, y: -1697.3652}
+      - {x: -502.445, y: -1631.377}
+      - {x: -502.445, y: -1444.4102}
+      - {x: -550.12225, y: -1407.75}
+    - - {x: -432.76285, y: -1404.084}
+      - {x: -476.7726, y: -1422.4141}
+      - {x: -476.7726, y: -1697.3652}
+      - {x: -238.3863, y: -1697.3652}
+      - {x: -183.37408, y: -1635.043}
+      - {x: -183.37408, y: -1484.7363}
+      - {x: -223.71638, y: -1404.084}
+    - - {x: 51.344746, y: -1121.8008}
+      - {x: 47.67726, y: -1129.1328}
+      - {x: 47.67726, y: -1338.0957}
+      - {x: 77.01711, y: -1415.082}
+      - {x: 300.7335, y: -1415.082}
+      - {x: 341.0758, y: -1356.4258}
+      - {x: 341.0758, y: -1121.8008}
+    - - {x: 619.8044, y: -1121.8008}
+      - {x: 425.4279, y: -1121.8008}
+      - {x: 366.74817, y: -1140.1309}
+      - {x: 366.74817, y: -1327.0977}
+      - {x: 399.7555, y: -1415.082}
+      - {x: 597.7995, y: -1415.082}
+      - {x: 660.1467, y: -1338.0957}
+      - {x: 660.1467, y: -1202.4531}
+      - {x: 652.81177, y: -1176.791}
+    - - {x: 715.15894, y: -1121.8008}
+      - {x: 696.82153, y: -1140.1309}
+      - {x: 696.82153, y: -1352.7598}
+      - {x: 733.49634, y: -1415.082}
+      - {x: 949.87775, y: -1415.082}
+      - {x: 990.2201, y: -1319.7656}
+      - {x: 990.2201, y: -1169.459}
+      - {x: 960.8802, y: -1121.8008}
+    - - {x: 1059.9022, y: -1121.8008}
+      - {x: 1012.225, y: -1202.4531}
+      - {x: 1012.225, y: -1393.0859}
+      - {x: 1074.5721, y: -1415.082}
+      - {x: 1298.2886, y: -1415.082}
+      - {x: 1309.291, y: -1404.084}
+      - {x: 1309.291, y: -1187.7891}
+      - {x: 1279.9512, y: -1121.8008}
+    - - {x: -1444.9878, y: -1099.8047}
+      - {x: -1444.9878, y: -1316.0996}
+      - {x: -1404.6455, y: -1396.752}
+      - {x: -1195.599, y: -1396.752}
+      - {x: -1147.9218, y: -1305.1016}
+      - {x: -1147.9218, y: -1121.8008}
+      - {x: -1158.9242, y: -1099.8047}
+    - - {x: -1045.2323, y: -1099.8047}
+      - {x: -1092.9095, y: -1121.8008}
+      - {x: -1125.9169, y: -1162.127}
+      - {x: -1125.9169, y: -1308.7676}
+      - {x: -1089.2421, y: -1396.752}
+      - {x: -927.87286, y: -1396.752}
+      - {x: -828.8509, y: -1352.7598}
+      - {x: -828.8509, y: -1158.4609}
+      - {x: -898.533, y: -1099.8047}
+    - - {x: -755.5012, y: -1099.8047}
+      - {x: -795.8435, y: -1143.7969}
+      - {x: -795.8435, y: -1316.0996}
+      - {x: -759.1687, y: -1396.752}
+      - {x: -539.1198, y: -1396.752}
+      - {x: -502.445, y: -1327.0977}
+      - {x: -502.445, y: -1136.4648}
+      - {x: -583.1296, y: -1099.8047}
+    - - {x: -407.09048, y: -1099.8047}
+      - {x: -476.7726, y: -1147.4629}
+      - {x: -476.7726, y: -1367.4238}
+      - {x: -399.7555, y: -1396.752}
+      - {x: -234.71883, y: -1396.752}
+      - {x: -183.37408, y: -1345.4277}
+      - {x: -183.37408, y: -1136.4648}
+      - {x: -223.71638, y: -1099.8047}
+    - - {x: 106.35697, y: -791.8594}
+      - {x: 47.67726, y: -843.1836}
+      - {x: 47.67726, y: -1030.1504}
+      - {x: 117.35941, y: -1088.8066}
+      - {x: 278.7286, y: -1088.8066}
+      - {x: 341.0758, y: -1004.4883}
+      - {x: 341.0758, y: -828.51953}
+      - {x: 245.72127, y: -791.8594}
+    - - {x: 568.45966, y: -791.8594}
+      - {x: 421.7604, y: -791.8594}
+      - {x: 366.74817, y: -868.8457}
+      - {x: 366.74817, y: -997.15625}
+      - {x: 410.75797, y: -1077.8086}
+      - {x: 458.4352, y: -1088.8066}
+      - {x: 608.80194, y: -1088.8066}
+      - {x: 660.1467, y: -1015.4863}
+      - {x: 660.1467, y: -861.5137}
+      - {x: 652.81177, y: -839.5176}
+    - - {x: 751.83374, y: -791.8594}
+      - {x: 696.82153, y: -832.18555}
+      - {x: 696.82153, y: -1033.8164}
+      - {x: 704.1565, y: -1044.8145}
+      - {x: 759.1687, y: -1088.8066}
+      - {x: 909.53546, y: -1088.8066}
+      - {x: 990.2201, y: -1048.4805}
+      - {x: 990.2201, y: -828.51953}
+      - {x: 957.2127, y: -791.8594}
+    - - {x: 1026.8949, y: -791.8594}
+      - {x: 1012.225, y: -861.5137}
+      - {x: 1012.225, y: -1052.1465}
+      - {x: 1070.9047, y: -1088.8066}
+      - {x: 1283.6187, y: -1088.8066}
+      - {x: 1309.291, y: -1000.82227}
+      - {x: 1309.291, y: -850.5156}
+      - {x: 1250.6112, y: -791.8594}
+    - - {x: -1397.3105, y: -784.52734}
+      - {x: -1444.9878, y: -839.5176}
+      - {x: -1444.9878, y: -1000.82227}
+      - {x: -1433.9854, y: -1037.4824}
+      - {x: -1397.3105, y: -1077.8086}
+      - {x: -1221.2714, y: -1077.8086}
+      - {x: -1147.9218, y: -1037.4824}
+      - {x: -1147.9218, y: -795.5254}
+      - {x: -1202.934, y: -784.52734}
+    - - {x: -1107.5795, y: -784.52734}
+      - {x: -1125.9169, y: -854.18164}
+      - {x: -1125.9169, y: -1011.8203}
+      - {x: -1048.8998, y: -1077.8086}
+      - {x: -828.8509, y: -1077.8086}
+      - {x: -828.8509, y: -784.52734}
+    - - {x: -729.82886, y: -784.52734}
+      - {x: -788.50854, y: -832.18555}
+      - {x: -795.8435, y: -854.18164}
+      - {x: -795.8435, y: -1004.4883}
+      - {x: -733.49634, y: -1077.8086}
+      - {x: -553.78973, y: -1077.8086}
+      - {x: -502.445, y: -1063.1445}
+      - {x: -502.445, y: -802.8574}
+      - {x: -553.78973, y: -784.52734}
+    - - {x: -440.0978, y: -784.52734}
+      - {x: -476.7726, y: -850.5156}
+      - {x: -476.7726, y: -1030.1504}
+      - {x: -418.09293, y: -1077.8086}
+      - {x: -231.05135, y: -1077.8086}
+      - {x: -183.37408, y: -1026.4844}
+      - {x: -183.37408, y: -865.1797}
+      - {x: -231.05135, y: -784.52734}
+    - - {x: 308.06845, y: -487.58008}
+      - {x: 95.35452, y: -487.58008}
+      - {x: 47.67726, y: -505.91016}
+      - {x: 47.67726, y: -700.209}
+      - {x: 84.35208, y: -780.8613}
+      - {x: 267.72617, y: -780.8613}
+      - {x: 341.0758, y: -736.86914}
+      - {x: 341.0758, y: -553.56836}
+      - {x: 333.74084, y: -509.57617}
+    - - {x: 429.09537, y: -487.58008}
+      - {x: 366.74817, y: -531.57227}
+      - {x: 366.74817, y: -703.875}
+      - {x: 414.42545, y: -773.5293}
+      - {x: 451.10025, y: -780.8613}
+      - {x: 594.132, y: -780.8613}
+      - {x: 660.1467, y: -733.2031}
+      - {x: 660.1467, y: -513.2422}
+      - {x: 586.79706, y: -487.58008}
+    - - {x: 759.1687, y: -487.58008}
+      - {x: 696.82153, y: -546.2363}
+      - {x: 696.82153, y: -681.8789}
+      - {x: 722.4939, y: -736.86914}
+      - {x: 773.8386, y: -780.8613}
+      - {x: 916.8704, y: -780.8613}
+      - {x: 946.21027, y: -777.1953}
+      - {x: 990.2201, y: -714.87305}
+      - {x: 990.2201, y: -568.2324}
+      - {x: 960.8802, y: -487.58008}
+    - - {x: 1019.55994, y: -487.58008}
+      - {x: 1012.225, y: -494.9121}
+      - {x: 1012.225, y: -729.5371}
+      - {x: 1023.2274, y: -780.8613}
+      - {x: 1246.9437, y: -780.8613}
+      - {x: 1309.291, y: -714.87305}
+      - {x: 1309.291, y: -513.2422}
+      - {x: 1254.2787, y: -487.58008}
+    - - {x: -1415.648, y: -469.25}
+      - {x: -1444.9878, y: -513.2422}
+      - {x: -1444.9878, y: -766.19727}
+      - {x: -1155.2567, y: -766.19727}
+      - {x: -1147.9218, y: -755.1992}
+      - {x: -1147.9218, y: -516.9082}
+      - {x: -1162.5917, y: -469.25}
+    - - {x: -1092.9095, y: -469.25}
+      - {x: -1125.9169, y: -520.5742}
+      - {x: -1125.9169, y: -681.8789}
+      - {x: -1089.2421, y: -766.19727}
+      - {x: -828.8509, y: -766.19727}
+      - {x: -828.8509, y: -483.91406}
+      - {x: -869.1932, y: -469.25}
+    - - {x: -773.8386, y: -469.25}
+      - {x: -795.8435, y: -516.9082}
+      - {x: -795.8435, y: -711.20703}
+      - {x: -696.82153, y: -766.19727}
+      - {x: -539.1198, y: -766.19727}
+      - {x: -502.445, y: -700.209}
+      - {x: -502.445, y: -487.58008}
+      - {x: -517.1149, y: -469.25}
+    - - {x: -414.42545, y: -469.25}
+      - {x: -447.43277, y: -476.58203}
+      - {x: -476.7726, y: -535.2383}
+      - {x: -476.7726, y: -692.87695}
+      - {x: -473.10513, y: -718.53906}
+      - {x: -429.09537, y: -766.19727}
+      - {x: -242.05379, y: -766.19727}
+      - {x: -183.37408, y: -733.2031}
+      - {x: -183.37408, y: -557.2344}
+      - {x: -234.71883, y: -469.25}
+    - - {x: 47.67726, y: -384.93164}
+      - {x: 102.68949, y: -480.24805}
+      - {x: 106.35697, y: -483.91406}
+      - {x: 275.06113, y: -483.91406}
+      - {x: 341.0758, y: -443.5879}
+      - {x: 341.0758, y: -230.95898}
+      - {x: 311.73593, y: -186.9668}
+      - {x: 95.35452, y: -186.9668}
+      - {x: 47.67726, y: -241.95703}
+    - - {x: 645.4768, y: -186.9668}
+      - {x: 418.09293, y: -186.9668}
+      - {x: 366.74817, y: -201.63086}
+      - {x: 366.74817, y: -403.26172}
+      - {x: 410.75797, y: -483.91406}
+      - {x: 630.8069, y: -483.91406}
+      - {x: 660.1467, y: -399.5957}
+      - {x: 660.1467, y: -208.96289}
+    - - {x: 784.84106, y: -186.9668}
+      - {x: 766.50366, y: -194.29883}
+      - {x: 696.82153, y: -238.29102}
+      - {x: 696.82153, y: -425.2578}
+      - {x: 722.4939, y: -483.91406}
+      - {x: 931.54034, y: -483.91406}
+      - {x: 990.2201, y: -414.25977}
+      - {x: 990.2201, y: -245.62305}
+      - {x: 913.20294, y: -186.9668}
+    - - {x: 1268.9487, y: -186.9668}
+      - {x: 1045.2323, y: -186.9668}
+      - {x: 1012.225, y: -238.29102}
+      - {x: 1012.225, y: -373.9336}
+      - {x: 1023.2274, y: -436.25586}
+      - {x: 1111.247, y: -480.24805}
+      - {x: 1122.2494, y: -483.91406}
+      - {x: 1279.9512, y: -483.91406}
+      - {x: 1309.291, y: -403.26172}
+      - {x: 1309.291, y: -223.62695}
+      - {x: 1283.6187, y: -190.63281}
+    - - {x: -1224.9388, y: -164.9707}
+      - {x: -1353.3008, y: -164.9707}
+      - {x: -1400.978, y: -175.96875}
+      - {x: -1444.9878, y: -216.29492}
+      - {x: -1444.9878, y: -388.59766}
+      - {x: -1400.978, y: -461.91797}
+      - {x: -1210.2689, y: -461.91797}
+      - {x: -1202.934, y: -458.25195}
+      - {x: -1147.9218, y: -384.93164}
+      - {x: -1147.9218, y: -260.2871}
+      - {x: -1158.9242, y: -212.6289}
+    - - {x: -1070.9047, y: -164.9707}
+      - {x: -1125.9169, y: -219.96094}
+      - {x: -1125.9169, y: -381.26562}
+      - {x: -1070.9047, y: -461.91797}
+      - {x: -850.8558, y: -461.91797}
+      - {x: -828.8509, y: -384.93164}
+      - {x: -828.8509, y: -223.62695}
+      - {x: -905.868, y: -164.9707}
+    - - {x: -564.7922, y: -164.9707}
+      - {x: -715.15894, y: -164.9707}
+      - {x: -755.5012, y: -194.29883}
+      - {x: -795.8435, y: -234.625}
+      - {x: -795.8435, y: -373.9336}
+      - {x: -762.8362, y: -461.91797}
+      - {x: -586.79706, y: -461.91797}
+      - {x: -506.1125, y: -403.26172}
+      - {x: -502.445, y: -395.9297}
+      - {x: -502.445, y: -219.96094}
+    - - {x: -216.38142, y: -164.9707}
+      - {x: -414.42545, y: -164.9707}
+      - {x: -476.7726, y: -219.96094}
+      - {x: -476.7726, y: -388.59766}
+      - {x: -465.77017, y: -414.25977}
+      - {x: -396.088, y: -461.91797}
+      - {x: -278.7286, y: -461.91797}
+      - {x: -227.38387, y: -443.5879}
+      - {x: -183.37408, y: -392.26367}
+      - {x: -183.37408, y: -245.62305}
+      - {x: -209.04646, y: -168.63672}
+    - - {x: 106.35697, y: 124.64453}
+      - {x: 47.67726, y: 95.31641}
+      - {x: 47.67726, y: -98.98242}
+      - {x: 128.36186, y: -172.30273}
+      - {x: 286.06357, y: -172.30273}
+      - {x: 341.0758, y: -128.31055}
+      - {x: 341.0758, y: 62.322266}
+      - {x: 308.06845, y: 124.64453}
+    - - {x: 425.4279, y: 124.64453}
+      - {x: 414.42545, y: 117.3125}
+      - {x: 366.74817, y: 73.32031}
+      - {x: 366.74817, y: -124.64453}
+      - {x: 388.75305, y: -172.30273}
+      - {x: 590.46454, y: -172.30273}
+      - {x: 660.1467, y: -146.64062}
+      - {x: 660.1467, y: 76.98633}
+      - {x: 627.13934, y: 124.64453}
+    - - {x: 729.82886, y: 124.64453}
+      - {x: 722.4939, y: 120.978516}
+      - {x: 696.82153, y: 43.992188}
+      - {x: 696.82153, y: -139.3086}
+      - {x: 718.8264, y: -172.30273}
+      - {x: 931.54034, y: -172.30273}
+      - {x: 990.2201, y: -161.30469}
+      - {x: 990.2201, y: 69.6543}
+      - {x: 898.533, y: 124.64453}
+    - - {x: 1052.5673, y: 124.64453}
+      - {x: 1012.225, y: 51.32422}
+      - {x: 1012.225, y: -102.64844}
+      - {x: 1059.9022, y: -172.30273}
+      - {x: 1239.6088, y: -172.30273}
+      - {x: 1309.291, y: -120.978516}
+      - {x: 1309.291, y: 51.32422}
+      - {x: 1279.9512, y: 124.64453}
+    - - {x: -1375.3057, y: 146.64062}
+      - {x: -1444.9878, y: 98.98242}
+      - {x: -1444.9878, y: -87.984375}
+      - {x: -1437.6528, y: -117.3125}
+      - {x: -1382.6406, y: -150.30664}
+      - {x: -1235.9413, y: -150.30664}
+      - {x: -1147.9218, y: -109.98047}
+      - {x: -1147.9218, y: 87.984375}
+      - {x: -1206.6014, y: 146.64062}
+    - - {x: -920.5379, y: 146.64062}
+      - {x: -1103.912, y: 146.64062}
+      - {x: -1125.9169, y: 76.98633}
+      - {x: -1125.9169, y: -109.98047}
+      - {x: -1096.577, y: -150.30664}
+      - {x: -847.1883, y: -150.30664}
+      - {x: -828.8509, y: -87.984375}
+      - {x: -828.8509, y: 87.984375}
+      - {x: -832.5184, y: 98.98242}
+    - - {x: -542.7873, y: 146.64062}
+      - {x: -759.1687, y: 146.64062}
+      - {x: -795.8435, y: 87.984375}
+      - {x: -795.8435, y: -124.64453}
+      - {x: -715.15894, y: -150.30664}
+      - {x: -550.12225, y: -150.30664}
+      - {x: -513.44745, y: -84.31836}
+      - {x: -502.445, y: -47.658203}
+      - {x: -502.445, y: 73.32031}
+    - - {x: -440.0978, y: 146.64062}
+      - {x: -476.7726, y: 113.646484}
+      - {x: -476.7726, y: -146.64062}
+      - {x: -451.10025, y: -150.30664}
+      - {x: -223.71638, y: -150.30664}
+      - {x: -183.37408, y: -80.65234}
+      - {x: -183.37408, y: 102.64844}
+      - {x: -242.05379, y: 146.64062}
+    - - {x: 231.05135, y: 447.2539}
+      - {x: 124.69438, y: 447.2539}
+      - {x: 47.67726, y: 392.26367}
+      - {x: 47.67726, y: 194.29883}
+      - {x: 121.02689, y: 150.30664}
+      - {x: 304.40097, y: 150.30664}
+      - {x: 341.0758, y: 201.63086}
+      - {x: 341.0758, y: 381.26562}
+      - {x: 282.3961, y: 436.25586}
+    - - {x: 377.7506, y: 447.2539}
+      - {x: 366.74817, y: 436.25586}
+      - {x: 366.74817, y: 201.63086}
+      - {x: 370.41565, y: 179.63477}
+      - {x: 429.09537, y: 150.30664}
+      - {x: 575.7946, y: 150.30664}
+      - {x: 660.1467, y: 183.30078}
+      - {x: 660.1467, y: 410.59375}
+      - {x: 638.14185, y: 447.2539}
+    - - {x: 711.49146, y: 447.2539}
+      - {x: 696.82153, y: 403.26172}
+      - {x: 696.82153, y: 183.30078}
+      - {x: 748.16626, y: 150.30664}
+      - {x: 931.54034, y: 150.30664}
+      - {x: 990.2201, y: 219.96094}
+      - {x: 990.2201, y: 370.26758}
+      - {x: 920.5379, y: 447.2539}
+    - - {x: 1081.9071, y: 447.2539}
+      - {x: 1012.225, y: 425.2578}
+      - {x: 1012.225, y: 208.96289}
+      - {x: 1041.5648, y: 150.30664}
+      - {x: 1276.2837, y: 150.30664}
+      - {x: 1309.291, y: 208.96289}
+      - {x: 1309.291, y: 384.93164}
+      - {x: 1228.6063, y: 447.2539}
+    - - {x: -1430.3179, y: 461.91797}
+      - {x: -1444.9878, y: 410.59375}
+      - {x: -1444.9878, y: 190.63281}
+      - {x: -1393.6431, y: 168.63672}
+      - {x: -1184.5966, y: 168.63672}
+      - {x: -1147.9218, y: 201.63086}
+      - {x: -1147.9218, y: 388.59766}
+      - {x: -1173.5941, y: 461.91797}
+    - - {x: -1056.2347, y: 461.91797}
+      - {x: -1074.5721, y: 458.25195}
+      - {x: -1125.9169, y: 395.9297}
+      - {x: -1125.9169, y: 256.6211}
+      - {x: -1078.2396, y: 168.63672}
+      - {x: -898.533, y: 168.63672}
+      - {x: -828.8509, y: 241.95703}
+      - {x: -828.8509, y: 399.5957}
+      - {x: -902.2005, y: 461.91797}
+    - - {x: -762.8362, y: 461.91797}
+      - {x: -795.8435, y: 392.26367}
+      - {x: -795.8435, y: 216.29492}
+      - {x: -751.83374, y: 168.63672}
+      - {x: -517.1149, y: 168.63672}
+      - {x: -502.445, y: 219.96094}
+      - {x: -502.445, y: 403.26172}
+      - {x: -550.12225, y: 461.91797}
+    - - {x: -227.38387, y: 461.91797}
+      - {x: -399.7555, y: 461.91797}
+      - {x: -476.7726, y: 432.58984}
+      - {x: -476.7726, y: 260.2871}
+      - {x: -451.10025, y: 168.63672}
+      - {x: -234.71883, y: 168.63672}
+      - {x: -194.37653, y: 201.63086}
+      - {x: -183.37408, y: 245.62305}
+      - {x: -183.37408, y: 425.2578}
+    - - {x: 117.35941, y: 744.2012}
+      - {x: 47.67726, y: 700.209}
+      - {x: 47.67726, y: 531.57227}
+      - {x: 73.34963, y: 447.2539}
+      - {x: 278.7286, y: 447.2539}
+      - {x: 341.0758, y: 509.57617}
+      - {x: 341.0758, y: 656.2168}
+      - {x: 297.066, y: 744.2012}
+    - - {x: 572.12714, y: 744.2012}
+      - {x: 377.7506, y: 744.2012}
+      - {x: 366.74817, y: 700.209}
+      - {x: 366.74817, y: 498.57812}
+      - {x: 421.7604, y: 447.2539}
+      - {x: 583.1296, y: 447.2539}
+      - {x: 660.1467, y: 498.57812}
+      - {x: 660.1467, y: 656.2168}
+      - {x: 656.47925, y: 700.209}
+    - - {x: 946.21027, y: 744.2012}
+      - {x: 700.489, y: 744.2012}
+      - {x: 696.82153, y: 718.53906}
+      - {x: 696.82153, y: 450.91992}
+      - {x: 704.1565, y: 447.2539}
+      - {x: 949.87775, y: 447.2539}
+      - {x: 982.8851, y: 487.58008}
+      - {x: 990.2201, y: 524.24023}
+      - {x: 990.2201, y: 696.54297}
+    - - {x: 1034.2299, y: 744.2012}
+      - {x: 1012.225, y: 692.87695}
+      - {x: 1012.225, y: 487.58008}
+      - {x: 1078.2396, y: 447.2539}
+      - {x: 1257.9462, y: 447.2539}
+      - {x: 1309.291, y: 494.9121}
+      - {x: 1309.291, y: 681.8789}
+      - {x: 1235.9413, y: 744.2012}
+    - - {x: -1422.9829, y: 758.86523}
+      - {x: -1444.9878, y: 722.2051}
+      - {x: -1444.9878, y: 546.2363}
+      - {x: -1404.6455, y: 461.91797}
+      - {x: -1232.2738, y: 461.91797}
+      - {x: -1147.9218, y: 524.24023}
+      - {x: -1147.9218, y: 689.21094}
+      - {x: -1188.264, y: 758.86523}
+    - - {x: -887.5306, y: 758.86523}
+      - {x: -1059.9022, y: 758.86523}
+      - {x: -1125.9169, y: 711.20703}
+      - {x: -1125.9169, y: 505.91016}
+      - {x: -1037.8973, y: 461.91797}
+      - {x: -894.86554, y: 461.91797}
+      - {x: -828.8509, y: 516.9082}
+      - {x: -828.8509, y: 670.88086}
+      - {x: -839.85333, y: 703.875}
+    - - {x: -751.83374, y: 758.86523}
+      - {x: -795.8435, y: 700.209}
+      - {x: -795.8435, y: 546.2363}
+      - {x: -722.4939, y: 461.91797}
+      - {x: -590.46454, y: 461.91797}
+      - {x: -502.445, y: 513.2422}
+      - {x: -502.445, y: 725.8711}
+      - {x: -572.12714, y: 758.86523}
+    - - {x: -194.37653, y: 758.86523}
+      - {x: -421.7604, y: 758.86523}
+      - {x: -465.77017, y: 711.20703}
+      - {x: -476.7726, y: 659.8828}
+      - {x: -476.7726, y: 502.24414}
+      - {x: -385.08557, y: 461.91797}
+      - {x: -194.37653, y: 461.91797}
+      - {x: -183.37408, y: 498.57812}
+      - {x: -183.37408, y: 755.1992}
+    - - {x: 58.679707, y: 1077.8086}
+      - {x: 47.67726, y: 1044.8145}
+      - {x: 47.67726, y: 817.5215}
+      - {x: 117.35941, y: 784.52734}
+      - {x: 308.06845, y: 784.52734}
+      - {x: 341.0758, y: 824.8535}
+      - {x: 341.0758, y: 1008.1543}
+      - {x: 308.06845, y: 1077.8086}
+    - - {x: 429.09537, y: 1077.8086}
+      - {x: 366.74817, y: 1019.15234}
+      - {x: 366.74817, y: 854.18164}
+      - {x: 377.7506, y: 832.18555}
+      - {x: 447.43277, y: 784.52734}
+      - {x: 564.7922, y: 784.52734}
+      - {x: 656.47925, y: 810.18945}
+      - {x: 660.1467, y: 828.51953}
+      - {x: 660.1467, y: 1004.4883}
+      - {x: 590.46454, y: 1077.8086}
+    - - {x: 751.83374, y: 1077.8086}
+      - {x: 696.82153, y: 1044.8145}
+      - {x: 696.82153, y: 850.5156}
+      - {x: 762.8362, y: 784.52734}
+      - {x: 968.21515, y: 784.52734}
+      - {x: 990.2201, y: 857.84766}
+      - {x: 990.2201, y: 1055.8125}
+      - {x: 968.21515, y: 1077.8086}
+    - - {x: 1085.5746, y: 1077.8086}
+      - {x: 1012.225, y: 1037.4824}
+      - {x: 1012.225, y: 839.5176}
+      - {x: 1041.5648, y: 784.52734}
+      - {x: 1239.6088, y: 784.52734}
+      - {x: 1309.291, y: 854.18164}
+      - {x: 1309.291, y: 1019.15234}
+      - {x: 1261.6138, y: 1077.8086}
+    - - {x: -1411.9805, y: 1088.8066}
+      - {x: -1444.9878, y: 1066.8105}
+      - {x: -1444.9878, y: 879.84375}
+      - {x: -1422.9829, y: 791.8594}
+      - {x: -1224.9388, y: 791.8594}
+      - {x: -1147.9218, y: 835.85156}
+      - {x: -1147.9218, y: 1052.1465}
+      - {x: -1224.9388, y: 1088.8066}
+    - - {x: -894.86554, y: 1088.8066}
+      - {x: -1063.5697, y: 1088.8066}
+      - {x: -1114.9144, y: 1066.8105}
+      - {x: -1125.9169, y: 997.15625}
+      - {x: -1125.9169, y: 872.5117}
+      - {x: -1078.2396, y: 795.5254}
+      - {x: -1041.5648, y: 791.8594}
+      - {x: -894.86554, y: 791.8594}
+      - {x: -832.5184, y: 857.84766}
+      - {x: -828.8509, y: 872.5117}
+      - {x: -828.8509, y: 1026.4844}
+    - - {x: -788.50854, y: 1088.8066}
+      - {x: -795.8435, y: 1055.8125}
+      - {x: -795.8435, y: 843.1836}
+      - {x: -766.50366, y: 791.8594}
+      - {x: -528.1174, y: 791.8594}
+      - {x: -502.445, y: 832.18555}
+      - {x: -502.445, y: 1019.15234}
+      - {x: -531.78485, y: 1088.8066}
+    - - {x: -396.088, y: 1088.8066}
+      - {x: -476.7726, y: 1055.8125}
+      - {x: -476.7726, y: 865.1797}
+      - {x: -421.7604, y: 795.5254}
+      - {x: -403.42297, y: 791.8594}
+      - {x: -260.3912, y: 791.8594}
+      - {x: -183.37408, y: 865.1797}
+      - {x: -183.37408, y: 1030.1504}
+      - {x: -253.05624, y: 1088.8066}
+    - - {x: -1371.6382, y: 1400.418}
+      - {x: -1444.9878, y: 1363.7578}
+      - {x: -1444.9878, y: 1169.459}
+      - {x: -1408.313, y: 1103.4707}
+      - {x: -1221.2714, y: 1103.4707}
+      - {x: -1147.9218, y: 1132.7988}
+      - {x: -1147.9218, y: 1352.7598}
+      - {x: -1188.264, y: 1400.418}
+    - - {x: -1125.9169, y: 1400.418}
+      - {x: -1125.9169, y: 1110.8027}
+      - {x: -1096.577, y: 1103.4707}
+      - {x: -854.52325, y: 1103.4707}
+      - {x: -828.8509, y: 1191.4551}
+      - {x: -828.8509, y: 1349.0938}
+      - {x: -898.533, y: 1400.418}
+    - - {x: -740.8313, y: 1400.418}
+      - {x: -751.83374, y: 1396.752}
+      - {x: -795.8435, y: 1341.7617}
+      - {x: -795.8435, y: 1143.7969}
+      - {x: -704.1565, y: 1103.4707}
+      - {x: -535.45233, y: 1103.4707}
+      - {x: -502.445, y: 1187.7891}
+      - {x: -502.445, y: 1349.0938}
+      - {x: -550.12225, y: 1400.418}
+    - - {x: -216.38142, y: 1400.418}
+      - {x: -440.0978, y: 1400.418}
+      - {x: -476.7726, y: 1363.7578}
+      - {x: -476.7726, y: 1129.1328}
+      - {x: -407.09048, y: 1103.4707}
+      - {x: -212.71394, y: 1103.4707}
+      - {x: -183.37408, y: 1198.7871}
+      - {x: -183.37408, y: 1360.0918}
+      - {x: -201.71149, y: 1396.752}
+    - - {x: 69.68215, y: 1400.418}
+      - {x: 47.67726, y: 1363.7578}
+      - {x: 47.67726, y: 1180.457}
+      - {x: 80.6846, y: 1103.4707}
+      - {x: 308.06845, y: 1103.4707}
+      - {x: 341.0758, y: 1195.1211}
+      - {x: 341.0758, y: 1371.0898}
+      - {x: 326.40588, y: 1400.418}
+    - - {x: 392.42053, y: 1400.418}
+      - {x: 366.74817, y: 1327.0977}
+      - {x: 366.74817, y: 1147.4629}
+      - {x: 399.7555, y: 1103.4707}
+      - {x: 630.8069, y: 1103.4707}
+      - {x: 660.1467, y: 1136.4648}
+      - {x: 660.1467, y: 1334.4297}
+      - {x: 627.13934, y: 1400.418}
+    - - {x: 942.5428, y: 1393.0859}
+      - {x: 905.868, y: 1400.418}
+      - {x: 740.8313, y: 1400.418}
+      - {x: 696.82153, y: 1356.4258}
+      - {x: 696.82153, y: 1191.4551}
+      - {x: 737.1638, y: 1103.4707}
+      - {x: 902.2005, y: 1103.4707}
+      - {x: 986.55255, y: 1136.4648}
+      - {x: 990.2201, y: 1154.7949}
+      - {x: 990.2201, y: 1341.7617}
+    - - {x: 1254.2787, y: 1400.418}
+      - {x: 1045.2323, y: 1400.418}
+      - {x: 1012.225, y: 1312.4336}
+      - {x: 1012.225, y: 1162.127}
+      - {x: 1059.9022, y: 1103.4707}
+      - {x: 1246.9437, y: 1103.4707}
+      - {x: 1294.6211, y: 1151.1289}
+      - {x: 1309.291, y: 1176.791}
+      - {x: 1309.291, y: 1367.4238}
+    - - {x: 315.40344, y: 1701.0312}
+      - {x: 124.69438, y: 1701.0312}
+      - {x: 51.344746, y: 1657.0391}
+      - {x: 51.344746, y: 1466.4062}
+      - {x: 80.6846, y: 1404.084}
+      - {x: 315.40344, y: 1404.084}
+      - {x: 348.41077, y: 1488.4023}
+      - {x: 348.41077, y: 1675.3691}
+    - - {x: 465.77017, y: 1701.0312}
+      - {x: 370.41565, y: 1653.373}
+      - {x: 370.41565, y: 1488.4023}
+      - {x: 436.43033, y: 1404.084}
+      - {x: 590.46454, y: 1404.084}
+      - {x: 667.4817, y: 1488.4023}
+      - {x: 667.4817, y: 1649.707}
+      - {x: 601.467, y: 1701.0312}
+    - - {x: 942.5428, y: 1701.0312}
+      - {x: 770.17114, y: 1701.0312}
+      - {x: 729.82886, y: 1693.6992}
+      - {x: 700.489, y: 1649.707}
+      - {x: 700.489, y: 1499.4004}
+      - {x: 737.1638, y: 1404.084}
+      - {x: 902.2005, y: 1404.084}
+      - {x: 986.55255, y: 1451.7422}
+      - {x: 993.8876, y: 1510.3984}
+      - {x: 993.8876, y: 1627.7109}
+    - - {x: 1096.577, y: 1701.0312}
+      - {x: 1019.55994, y: 1668.0371}
+      - {x: 1019.55994, y: 1470.0723}
+      - {x: 1081.9071, y: 1404.084}
+      - {x: 1235.9413, y: 1404.084}
+      - {x: 1312.9585, y: 1429.7461}
+      - {x: 1312.9585, y: 1690.0332}
+      - {x: 1283.6187, y: 1701.0312}
+    - - {x: -1411.9805, y: 1719.3613}
+      - {x: -1444.9878, y: 1657.0391}
+      - {x: -1444.9878, y: 1451.7422}
+      - {x: -1367.9707, y: 1426.0801}
+      - {x: -1199.2665, y: 1426.0801}
+      - {x: -1147.9218, y: 1484.7363}
+      - {x: -1147.9218, y: 1675.3691}
+      - {x: -1169.9266, y: 1719.3613}
+    - - {x: -1067.2372, y: 1719.3613}
+      - {x: -1125.9169, y: 1653.373}
+      - {x: -1125.9169, y: 1495.7344}
+      - {x: -1114.9144, y: 1470.0723}
+      - {x: -1023.2274, y: 1426.0801}
+      - {x: -898.533, y: 1426.0801}
+      - {x: -828.8509, y: 1484.7363}
+      - {x: -828.8509, y: 1657.0391}
+      - {x: -913.20294, y: 1719.3613}
+    - - {x: -733.49634, y: 1719.3613}
+      - {x: -795.8435, y: 1657.0391}
+      - {x: -795.8435, y: 1499.4004}
+      - {x: -770.17114, y: 1426.0801}
+      - {x: -513.44745, y: 1426.0801}
+      - {x: -502.445, y: 1451.7422}
+      - {x: -502.445, y: 1631.377}
+      - {x: -535.45233, y: 1719.3613}
+    - - {x: -399.7555, y: 1719.3613}
+      - {x: -476.7726, y: 1686.3672}
+      - {x: -476.7726, y: 1510.3984}
+      - {x: -429.09537, y: 1426.0801}
+      - {x: -253.05624, y: 1426.0801}
+      - {x: -183.37408, y: 1484.7363}
+      - {x: -183.37408, y: 1657.0391}
+      - {x: -245.72127, y: 1719.3613}
+    - - {x: 73.34963, y: 2012.6426}
+      - {x: 51.344746, y: 1994.3125}
+      - {x: 51.344746, y: 1803.6797}
+      - {x: 73.34963, y: 1719.3613}
+      - {x: 286.06357, y: 1719.3613}
+      - {x: 348.41077, y: 1789.0156}
+      - {x: 348.41077, y: 1975.9824}
+      - {x: 282.3961, y: 2012.6426}
+    - - {x: 407.09048, y: 2012.6426}
+      - {x: 370.41565, y: 2005.3105}
+      - {x: 370.41565, y: 1767.0195}
+      - {x: 425.4279, y: 1719.3613}
+      - {x: 641.8093, y: 1719.3613}
+      - {x: 667.4817, y: 1811.0117}
+      - {x: 667.4817, y: 1942.9883}
+      - {x: 623.47186, y: 2012.6426}
+    - - {x: 733.49634, y: 2012.6426}
+      - {x: 700.489, y: 1950.3203}
+      - {x: 700.489, y: 1789.0156}
+      - {x: 766.50366, y: 1719.3613}
+      - {x: 927.87286, y: 1719.3613}
+      - {x: 993.8876, y: 1785.3496}
+      - {x: 993.8876, y: 1994.3125}
+      - {x: 931.54034, y: 2012.6426}
+    - - {x: 1019.55994, y: 1781.6836}
+      - {x: 1074.5721, y: 1719.3613}
+      - {x: 1283.6187, y: 1719.3613}
+      - {x: 1312.9585, y: 1730.3594}
+      - {x: 1312.9585, y: 1946.6543}
+      - {x: 1290.9536, y: 2012.6426}
+      - {x: 1081.9071, y: 2012.6426}
+      - {x: 1019.55994, y: 1953.9863}
+    - - {x: -1400.978, y: 2023.6406}
+      - {x: -1444.9878, y: 1983.3145}
+      - {x: -1444.9878, y: 1814.6777}
+      - {x: -1408.313, y: 1726.6934}
+      - {x: -1243.2762, y: 1726.6934}
+      - {x: -1147.9218, y: 1770.6855}
+      - {x: -1147.9218, y: 1964.9844}
+      - {x: -1184.5966, y: 2023.6406}
+    - - {x: -1125.9169, y: 2023.6406}
+      - {x: -1125.9169, y: 1792.6816}
+      - {x: -1045.2323, y: 1726.6934}
+      - {x: -898.533, y: 1726.6934}
+      - {x: -828.8509, y: 1789.0156}
+      - {x: -828.8509, y: 1939.3223}
+      - {x: -872.86066, y: 2023.6406}
+    - - {x: -795.8435, y: 2023.6406}
+      - {x: -795.8435, y: 1726.6934}
+      - {x: -506.1125, y: 1726.6934}
+      - {x: -502.445, y: 1734.0254}
+      - {x: -502.445, y: 1950.3203}
+      - {x: -535.45233, y: 2023.6406}
+    - - {x: -410.75797, y: 2023.6406}
+      - {x: -476.7726, y: 1953.9863}
+      - {x: -476.7726, y: 1763.3535}
+      - {x: -421.7604, y: 1726.6934}
+      - {x: -220.0489, y: 1726.6934}
+      - {x: -183.37408, y: 1800.0137}
+      - {x: -183.37408, y: 1979.6484}
+      - {x: -234.71883, y: 2023.6406}
+    - - {x: 293.39853, y: 2338.918}
+      - {x: 99.022, y: 2338.918}
+      - {x: 51.344746, y: 2261.9316}
+      - {x: 51.344746, y: 2111.625}
+      - {x: 110.02445, y: 2041.9707}
+      - {x: 278.7286, y: 2041.9707}
+      - {x: 300.7335, y: 2049.3027}
+      - {x: 348.41077, y: 2137.287}
+      - {x: 348.41077, y: 2239.9355}
+      - {x: 344.7433, y: 2269.2637}
+    - - {x: 583.1296, y: 2338.918}
+      - {x: 451.10025, y: 2338.918}
+      - {x: 385.08557, y: 2280.2617}
+      - {x: 370.41565, y: 2258.2656}
+      - {x: 370.41565, y: 2126.289}
+      - {x: 432.76285, y: 2041.9707}
+      - {x: 590.46454, y: 2041.9707}
+      - {x: 667.4817, y: 2104.293}
+      - {x: 667.4817, y: 2287.5938}
+      - {x: 634.47437, y: 2327.92}
+    - - {x: 770.17114, y: 2338.918}
+      - {x: 700.489, y: 2287.5938}
+      - {x: 700.489, y: 2100.627}
+      - {x: 729.82886, y: 2041.9707}
+      - {x: 942.5428, y: 2041.9707}
+      - {x: 993.8876, y: 2089.629}
+      - {x: 993.8876, y: 2269.2637}
+      - {x: 960.8802, y: 2338.918}
+    - - {x: 1045.2323, y: 2338.918}
+      - {x: 1019.55994, y: 2276.5957}
+      - {x: 1019.55994, y: 2063.9668}
+      - {x: 1092.9095, y: 2041.9707}
+      - {x: 1265.2812, y: 2041.9707}
+      - {x: 1312.9585, y: 2096.961}
+      - {x: 1312.9585, y: 2265.5977}
+      - {x: 1283.6187, y: 2338.918}
+    - - {x: -1195.599, y: 2342.584}
+      - {x: -1422.9829, y: 2342.584}
+      - {x: -1430.3179, y: 2335.252}
+      - {x: -1444.9878, y: 2276.5957}
+      - {x: -1444.9878, y: 2107.959}
+      - {x: -1393.6431, y: 2052.9688}
+      - {x: -1360.6357, y: 2045.6367}
+      - {x: -1228.6063, y: 2045.6367}
+      - {x: -1151.5892, y: 2093.295}
+      - {x: -1147.9218, y: 2100.627}
+      - {x: -1147.9218, y: 2313.2559}
+    - - {x: -1074.5721, y: 2342.584}
+      - {x: -1125.9169, y: 2276.5957}
+      - {x: -1125.9169, y: 2137.287}
+      - {x: -1085.5746, y: 2045.6367}
+      - {x: -891.19806, y: 2045.6367}
+      - {x: -828.8509, y: 2093.295}
+      - {x: -828.8509, y: 2331.586}
+      - {x: -854.52325, y: 2342.584}
+    - - {x: -788.50854, y: 2342.584}
+      - {x: -795.8435, y: 2309.5898}
+      - {x: -795.8435, y: 2096.961}
+      - {x: -766.50366, y: 2045.6367}
+      - {x: -528.1174, y: 2045.6367}
+      - {x: -502.445, y: 2085.963}
+      - {x: -502.445, y: 2272.9297}
+      - {x: -531.78485, y: 2342.584}
+    - - {x: -396.088, y: 2342.584}
+      - {x: -476.7726, y: 2309.5898}
+      - {x: -476.7726, y: 2118.957}
+      - {x: -421.7604, y: 2049.3027}
+      - {x: -403.42297, y: 2045.6367}
+      - {x: -260.3912, y: 2045.6367}
+      - {x: -183.37408, y: 2118.957}
+      - {x: -183.37408, y: 2283.9277}
+      - {x: -253.05624, y: 2342.584}
+    - - {x: -1397.3105, y: 2676.1914}
+      - {x: -1444.9878, y: 2606.537}
+      - {x: -1444.9878, y: 2459.8965}
+      - {x: -1411.9805, y: 2382.9102}
+      - {x: -1147.9218, y: 2382.9102}
+      - {x: -1147.9218, y: 2650.5293}
+      - {x: -1217.6039, y: 2676.1914}
+    - - {x: -1125.9169, y: 2676.1914}
+      - {x: -1125.9169, y: 2441.5664}
+      - {x: -1103.912, y: 2382.9102}
+      - {x: -887.5306, y: 2382.9102}
+      - {x: -828.8509, y: 2441.5664}
+      - {x: -828.8509, y: 2617.5352}
+      - {x: -858.19073, y: 2676.1914}
+    - - {x: -740.8313, y: 2676.1914}
+      - {x: -795.8435, y: 2621.2012}
+      - {x: -795.8435, y: 2408.5723}
+      - {x: -718.8264, y: 2382.9102}
+      - {x: -553.78973, y: 2382.9102}
+      - {x: -502.445, y: 2437.9004}
+      - {x: -502.445, y: 2646.8633}
+      - {x: -568.45966, y: 2676.1914}
+    - - {x: -260.3912, y: 2676.1914}
+      - {x: -418.09293, y: 2676.1914}
+      - {x: -476.7726, y: 2621.2012}
+      - {x: -476.7726, y: 2448.8984}
+      - {x: -399.7555, y: 2382.9102}
+      - {x: -278.7286, y: 2382.9102}
+      - {x: -242.05379, y: 2397.5742}
+      - {x: -201.71149, y: 2445.2324}
+      - {x: -183.37408, y: 2470.8945}
+      - {x: -183.37408, y: 2643.1973}
+    - - {x: 106.35697, y: 2679.8574}
+      - {x: 51.344746, y: 2613.8691}
+      - {x: 51.344746, y: 2470.8945}
+      - {x: 95.35452, y: 2382.9102}
+      - {x: 275.06113, y: 2382.9102}
+      - {x: 348.41077, y: 2434.2344}
+      - {x: 348.41077, y: 2606.537}
+      - {x: 326.40588, y: 2679.8574}
+    - - {x: 616.1369, y: 2679.8574}
+      - {x: 436.43033, y: 2679.8574}
+      - {x: 370.41565, y: 2635.8652}
+      - {x: 370.41565, y: 2426.9023}
+      - {x: 432.76285, y: 2382.9102}
+      - {x: 619.8044, y: 2382.9102}
+      - {x: 667.4817, y: 2445.2324}
+      - {x: 667.4817, y: 2632.1992}
+    - - {x: 781.1736, y: 2679.8574}
+      - {x: 700.489, y: 2613.8691}
+      - {x: 700.489, y: 2459.8965}
+      - {x: 733.49634, y: 2382.9102}
+      - {x: 931.54034, y: 2382.9102}
+      - {x: 993.8876, y: 2456.2305}
+      - {x: 993.8876, y: 2613.8691}
+      - {x: 909.53546, y: 2679.8574}
+    - - {x: 1059.9022, y: 2679.8574}
+      - {x: 1034.2299, y: 2676.1914}
+      - {x: 1019.55994, y: 2624.8672}
+      - {x: 1019.55994, y: 2426.9023}
+      - {x: 1063.5697, y: 2382.9102}
+      - {x: 1228.6063, y: 2382.9102}
+      - {x: 1312.9585, y: 2419.5703}
+      - {x: 1312.9585, y: 2599.205}
+      - {x: 1254.2787, y: 2679.8574}
+    - - {x: -1378.9731, y: 2998.8008}
+      - {x: -1444.9878, y: 2940.1445}
+      - {x: -1444.9878, y: 2764.1758}
+      - {x: -1411.9805, y: 2701.8535}
+      - {x: -1213.9364, y: 2701.8535}
+      - {x: -1147.9218, y: 2727.5156}
+      - {x: -1147.9218, y: 2951.1426}
+      - {x: -1232.2738, y: 2998.8008}
+    - - {x: -1056.2347, y: 2998.8008}
+      - {x: -1125.9169, y: 2954.8086}
+      - {x: -1125.9169, y: 2745.8457}
+      - {x: -1041.5648, y: 2701.8535}
+      - {x: -916.8704, y: 2701.8535}
+      - {x: -883.8631, y: 2712.8516}
+      - {x: -828.8509, y: 2764.1758}
+      - {x: -828.8509, y: 2910.8164}
+      - {x: -861.8582, y: 2998.8008}
+    - - {x: -766.50366, y: 2998.8008}
+      - {x: -795.8435, y: 2921.8145}
+      - {x: -795.8435, y: 2756.8438}
+      - {x: -733.49634, y: 2701.8535}
+      - {x: -564.7922, y: 2701.8535}
+      - {x: -502.445, y: 2775.1738}
+      - {x: -502.445, y: 2940.1445}
+      - {x: -579.4621, y: 2998.8008}
+    - - {x: -418.09293, y: 2998.8008}
+      - {x: -476.7726, y: 2969.4727}
+      - {x: -476.7726, y: 2734.8477}
+      - {x: -462.1027, y: 2701.8535}
+      - {x: -256.72372, y: 2701.8535}
+      - {x: -183.37408, y: 2775.1738}
+      - {x: -183.37408, y: 2940.1445}
+      - {x: -223.71638, y: 2998.8008}
+    - - {x: 84.35208, y: 2998.8008}
+      - {x: 51.344746, y: 2962.1406}
+      - {x: 51.344746, y: 2789.838}
+      - {x: 88.01956, y: 2701.8535}
+      - {x: 333.74084, y: 2701.8535}
+      - {x: 348.41077, y: 2731.1816}
+      - {x: 348.41077, y: 2958.4746}
+      - {x: 297.066, y: 2998.8008}
+    - - {x: 436.43033, y: 2998.8008}
+      - {x: 370.41565, y: 2954.8086}
+      - {x: 370.41565, y: 2786.1719}
+      - {x: 410.75797, y: 2701.8535}
+      - {x: 608.80194, y: 2701.8535}
+      - {x: 667.4817, y: 2745.8457}
+      - {x: 667.4817, y: 2940.1445}
+      - {x: 645.4768, y: 2998.8008}
+    - - {x: 759.1687, y: 2998.8008}
+      - {x: 700.489, y: 2936.4785}
+      - {x: 700.489, y: 2793.504}
+      - {x: 722.4939, y: 2745.8457}
+      - {x: 777.5061, y: 2701.8535}
+      - {x: 905.868, y: 2701.8535}
+      - {x: 993.8876, y: 2742.1797}
+      - {x: 993.8876, y: 2969.4727}
+      - {x: 909.53546, y: 2998.8008}
+    - - {x: 1272.6162, y: 2998.8008}
+      - {x: 1048.8998, y: 2998.8008}
+      - {x: 1019.55994, y: 2936.4785}
+      - {x: 1019.55994, y: 2727.5156}
+      - {x: 1103.912, y: 2701.8535}
+      - {x: 1246.9437, y: 2701.8535}
+      - {x: 1309.291, y: 2764.1758}
+      - {x: 1312.9585, y: 2786.1719}
+      - {x: 1312.9585, y: 2929.1465}
+    - - {x: -392.42053, y: 3420.3926}
+      - {x: -454.76773, y: 3402.0625}
+      - {x: -454.76773, y: 3193.0996}
+      - {x: -377.7506, y: 3127.1113}
+      - {x: -198.044, y: 3127.1113}
+      - {x: -157.70172, y: 3207.7637}
+      - {x: -157.70172, y: 3365.4023}
+      - {x: -194.37653, y: 3420.3926}
+    - - {x: -40.3423, y: 3402.0625}
+      - {x: -80.6846, y: 3361.7363}
+      - {x: -80.6846, y: 3196.7656}
+      - {x: -40.3423, y: 3156.4395}
+      - {x: 363.0807, y: 3156.4395}
+      - {x: 403.42297, y: 3196.7656}
+      - {x: 403.42297, y: 3361.7363}
+      - {x: 363.0807, y: 3402.0625}
+    - - {x: -1136.9193, y: 3695.3438}
+      - {x: -1140.5868, y: 3655.0176}
+      - {x: -1140.5868, y: 3449.7207}
+      - {x: -693.15405, y: 3449.7207}
+      - {x: -656.47925, y: 3453.3867}
+      - {x: -656.47925, y: 3695.3438}
+    - - {x: -605.13446, y: 3695.3438}
+      - {x: -605.13446, y: 3490.0469}
+      - {x: -601.467, y: 3449.7207}
+      - {x: -146.69926, y: 3449.7207}
+      - {x: -121.02689, y: 3453.3867}
+      - {x: -121.02689, y: 3695.3438}
+    - - {x: 396.088, y: 3449.7207}
+      - {x: 421.7604, y: 3453.3867}
+      - {x: 421.7604, y: 3669.6816}
+      - {x: 414.42545, y: 3695.3438}
+      - {x: -22.00489, y: 3695.3438}
+      - {x: -62.34719, y: 3691.6777}
+      - {x: -62.34719, y: 3449.7207}
+    - - {x: 502.445, y: 3695.3438}
+      - {x: 495.11005, y: 3655.0176}
+      - {x: 495.11005, y: 3490.0469}
+      - {x: 502.445, y: 3449.7207}
+      - {x: 942.5428, y: 3449.7207}
+      - {x: 979.2176, y: 3453.3867}
+      - {x: 979.2176, y: 3695.3438}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

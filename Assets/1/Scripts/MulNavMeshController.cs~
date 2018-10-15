@@ -1,0 +1,80 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AI;
+using UnityEngine.Networking;
+
+[RequireComponent(typeof(Animator))]
+public class MulNavMeshController : NetworkBehaviour
+{
+    NavMeshAgent nav;
+    private Vector3 move;
+    float turnAmount;
+    float forwardAmount;
+    private Animator anim;
+    private Action action;
+
+
+
+    public Action actionType
+    {
+        get{ return action; }
+        set{ action = value; }
+    }
+    //private Action action;
+    // Use this for initialization
+    void Start()
+    {
+        nav = gameObject.GetComponent<NavMeshAgent>();
+        anim = GetComponent<Animator>();
+        action = GetComponent<MulNavMeshMovement>().actionType;
+    }
+
+    [ServerCallback]
+    // Update is called once per frame
+    void Update()
+    {
+        Move();
+    }
+
+    //public void RefreshAnimator()
+    [ServerCallback]
+    public void Move()
+    {
+        move = nav.desiredVelocity;
+        if (move.magnitude > 0.1)
+            move.Normalize();
+
+        move = transform.InverseTransformDirection(move);
+        //  move = Vector3.ProjectOnPlane(move, groundNormal);
+        turnAmount = Mathf.Atan2(move.y, move.x);
+        turnAmount = move.x;
+        forwardAmount = move.z;
+        applyExtraRotation();
+        ChangeSpeed();
+        anim.SetFloat("Forward", forwardAmount, 0.1f, Time.deltaTime);
+        anim.SetFloat("Turn", turnAmount, 0.1f, Time.deltaTime);
+    }
+
+    [ServerCallback]
+    private void applyExtraRotation()
+    {
+        float turnSpeed = Mathf.Lerp(180, 220, Mathf.Abs(forwardAmount));
+        if (forwardAmount < 0.1f)
+            turnSpeed *= 3;
+        transform.Rotate(0, turnSpeed * turnAmount * Time.deltaTime, 0);
+
+    }
+
+    [ServerCallback]
+    void ChangeSpeed()
+    {
+        if (action == Action.petrol)
+            forwardAmount = Mathf.Clamp(forwardAmount, 0, 0.5f);
+        else if (action == Action.chasing)
+            forwardAmount = Mathf.Clamp(forwardAmount, 0.5f, 1);
+    }
+
+
+
+}

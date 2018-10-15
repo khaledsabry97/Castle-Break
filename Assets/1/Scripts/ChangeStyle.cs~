@@ -1,0 +1,30 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using System;
+
+public class ChangeStyle : MonoBehaviour
+{
+    public ChangeStyle instance;
+    public GameObject[] styleobj;
+    // Use this for initialization
+    void Start()
+    {
+    }
+	
+    // Update is called once per frame
+    void Update()
+    {
+		
+    }
+
+    public void stylechanged(int num)
+    {
+
+        if (styleobj.Length == 0)
+            return;
+        foreach (GameObject g in styleobj)
+            g.SetActive(false);
+        styleobj[num].SetActive(true);
+    }
+}

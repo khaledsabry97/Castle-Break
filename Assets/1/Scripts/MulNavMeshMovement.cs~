@@ -1,0 +1,281 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AI;
+using UnityEngine.Networking;
+
+//using System;
+
+public enum Action
+{
+    petrol,
+    chasing,
+    chatting,
+    Idle,
+    Cought
+
+}
+
+[RequireComponent(typeof(NavMeshAgent))]
+[RequireComponent(typeof(Animator))]
+public class MulNavMeshMovement : NetworkBehaviour
+{
+    //public
+
+
+    public float PetrolDistance = 10;
+    public float searchingPlayerDistance = 10;
+    public float TimeBetweenPetrols = 5;
+    public float distanceToRun = 50;
+    public float FieldOfView = 60;
+
+
+    //private
+    private NavMeshAgent nav;
+    //MulNavMeshController control;
+    MulNavMeshMovement control;
+    private Action action = Action.Idle;
+    [SyncVar]
+    public GameObject Player;
+    private float timeBetweenPetrols;
+    private Animator anim;
+    private bool found = false;
+    private Rigidbody rig;
+    private bool isIdle;
+    private bool isWalking;
+    private bool isChasing;
+    private bool isChatting;
+    private float Timer;
+
+    public Action actionType
+    {
+        get{ return action; }
+        set{ action = value; }
+    }
+
+
+    //[ServerCallback]
+    // Use this for initialization
+    void Start()
+    {
+        nav = GetComponent<NavMeshAgent>();
+        //Player = GameObject.FindGameObjectWithTag("Player");
+        anim = GetComponent<Animator>();
+        control = GetComponent<MulNavMeshMovement>();
+        rig = GetComponent<Rigidbody>();
+        Timer = 2;
+        Get_Closest();
+        ChangeState(action);
+    }
+
+    [ServerCallback]
+    void Update()
+    {
+        //	Timer += Time.deltaTime;
+    }
+
+    [ServerCallback]
+    void Get_Closest()
+    {
+        float Min = 10000;
+        int OBJNUMBER = -1;
+        GameObject[] obj;
+        obj = GameObject.FindGameObjectsWithTag("Player");
+        for (int i = 0; i < obj.Length; i++)
+        {
+            if (Mathf.Abs(transform.position.magnitude - obj[i].transform.position.magnitude) < Min)
+            {
+                Min = Mathf.Abs(transform.position.magnitude - obj[i].transform.position.magnitude);
+                OBJNUMBER = i;
+            }
+        }
+        if (OBJNUMBER == -1)
+        {
+            Invoke("Get_Closest", 2);
+            return;
+        }
+        Player = obj[OBJNUMBER];
+        Invoke("Get_Closest", 2);
+
+
+    }
+
+    [ServerCallback]
+    void  refreshAnimatorState()
+    {
+        if (action == Action.Idle)
+        {
+            isIdle = true;
+            isChasing = false;
+            isWalking = false;
+        }
+        else if (action == Action.petrol)
+        {
+            isIdle = false;
+            isChasing = false;
+            isWalking = true;
+        }
+        else if (action == Action.chasing)
+        {
+            isIdle = false;
+            isChasing = true;
+            isWalking = false;
+        }
+
+        anim.SetBool("isIdle", isIdle);
+        anim.SetBool("isChasing", isChasing);
+        anim.SetBool("isWalking", isWalking);
+    }
+
+    #region States
+
+    [ServerCallback]
+    public  void ChangeState(Action act)
+    {
+        nav.isStopped = true;
+        StopAllCoroutines();
+        action = act;
+        print("hellp");
+
+        control.actionType = action;
+
+        refreshAnimatorState();
+
+        switch (act)
+        {
+            case Action.petrol:
+                {
+                    StartCoroutine("Petrol");
+                    break;
+                }
+            case Action.Cought:
+                {
+                    StartCoroutine("Cought");
+                    break;
+                }
+            case Action.chasing:
+                {
+                    StartCoroutine("Chasing");
+                    break;
+                }
+            case Action.Idle:
+                {
+                    StartCoroutine("Idle");
+                    break;
+                }
+        }
+    }
+
+    [ServerCallback]
+    IEnumerator Petrol()
+    {
+
+        //Call function to start petrol animation
+        //Get a postion at distance = to petroldistance then get a postion that the agent can move to
+        NavMeshHit hit;
+        Vector3 area = Random.insideUnitSphere * PetrolDistance;
+        area += transform.position;
+        NavMesh.SamplePosition(area, out hit, PetrolDistance, 1);
+        nav.SetDestination(hit.position);
+
+        nav.Resume();
+        //to know the things that the agent hits
+
+        while (!nav.isStopped)
+        {
+            Searching_For_Player();
+
+            if (Vector3.Distance(transform.position, hit.position) < nav.stoppingDistance)
+                ChangeState(Action.Idle);
+
+            yield return null;
+        }
+    }
+
+    [ServerCallback]
+    IEnumerator Idle()
+    {
+        timeBetweenPetrols = TimeBetweenPetrols;
+        while (timeBetweenPetrols > 0)
+        {
+            print("hello");
+            Searching_For_Player();
+            timeBetweenPetrols -= Time.deltaTime;
+            yield return null;
+        }
+        ChangeState(Action.petrol);
+
+    }
+
+    [ServerCallback]
+    IEnumerator Chasing()
+    {
+        Vector3 v = Vector3.Project(Player.transform.position, transform.transform.position);
+        nav.Resume();
+        Quaternion player = Quaternion.LookRotation(v);
+        transform.rotation = Quaternion.Lerp(transform.rotation, player, 0.15f);
+
+
+
+
+
+        while (Vector3.Distance(transform.position, Player.transform.position) < searchingPlayerDistance)
+        {
+            // transform.LookAt(Player.transform.position);
+            nav.SetDestination(Player.transform.position);
+
+            if (Vector3.Distance(transform.position, Player.transform.position) <= nav.stoppingDistance)
+            {
+                ChangeState(Action.Cought);
+            }
+            yield return null;
+        }
+        ChangeState(Action.Idle);
+    }
+
+    [ServerCallback]
+    IEnumerator Cought()
+    {
+        while (Vector3.Distance(transform.position, Player.transform.position) <= nav.stoppingDistance)
+        {
+            transform.LookAt(Player.transform.position);
+            yield return null;
+        }
+        ChangeState(Action.chasing);
+    }
+
+    #endregion
+
+    #region Eye Agent
+
+    [ServerCallback]
+    void Searching_For_Player()
+    {
+        //Player = GameObject.FindGameObjectWithTag("Player");
+        //Invoke("Get_Closest", 2);
+        if (Player == null)
+            return;
+
+        /*if (Timer > 2)
+        {
+            Timer = 0;
+            Invoke("Get_Closest", 1);
+        }*/
+        //Get angle between enemy sight and player
+        float Angle = Mathf.Abs(Vector3.Angle(transform.forward, (Player.transform.position - transform.position).normalized));
+        //If angle is greater than field of view, we cannot see player
+        if (Angle > FieldOfView)
+            return;
+        //Check with raycast- make sure player is not on other side of 
+        // 8 refer to the floor layar , you have to ignore the floor layer so that 
+        //the agent could see only the houses and player and not distracted by ground 
+        if (Physics.Linecast(transform.position, Player.transform.position, 8))
+            return;
+        //We can see player
+        ChangeState(Action.chasing);
+    }
+
+    #endregion
+}
+
+

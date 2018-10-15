@@ -1,0 +1,43 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Stylebutton : MonoBehaviour
+{
+
+    private int num;
+
+    public int Num
+    {
+        set
+        {
+            num = value;
+            ChangeCharacter.instance.Num = num;
+        }
+    }
+
+    public void Knight()
+    {
+        Num = 0;
+    }
+
+    public void Peasant()
+    {
+        Num = 1;
+    }
+
+    public void ShopKeeper()
+    {
+        Num = 2;
+    }
+
+    public void Viking()
+    {
+        Num = 3;
+    }
+
+    public void Worrior()
+    {
+        Num = 4;
+    }
+}
