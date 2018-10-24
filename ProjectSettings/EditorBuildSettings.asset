@@ -20,6 +20,3 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/1/Scenes/ChangeCharacter.unity
     guid: 53d3e34bc4886b643a8e48185868fba0
-  - enabled: 1
-    path: Assets/1/Scenes/test.unity
-    guid: de5af655d83f84d478b82bbeea96d483

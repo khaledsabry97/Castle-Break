@@ -6,6 +6,7 @@ using UnityEngine.AI;
 //using UnityEditor;
 //using UnityEditor.Animations;
 using UnityEngine.Networking;
+using System.Runtime.InteropServices;
 
 
 public enum Action
@@ -197,6 +198,7 @@ public class NavMeshMovement : NetworkBehaviour
     public  void ChangeState(Action act)
     {
         nav.isStopped = true;
+       
         StopAllCoroutines();
         action = act;
         control.actionType = action;
@@ -294,6 +296,7 @@ public class NavMeshMovement : NetworkBehaviour
 
             if (Vector3.Distance(transform.position, Player.transform.position) <= nav.stoppingDistance)
             {
+
                 ChangeState(Action.Cought);
             }
             yield return null;
@@ -319,6 +322,8 @@ public class NavMeshMovement : NetworkBehaviour
             }
             else
             {
+                print("too close");
+
                 if (anim.GetAnimatorTransitionInfo(0).IsName("Punch_R"))
                 {
                     //nav.isStopped = true;

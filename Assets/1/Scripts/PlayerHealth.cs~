@@ -39,7 +39,7 @@ public class PlayerHealth : MonoBehaviour
         
         if ((c.gameObject.name == "Shoulder_R" || c.gameObject.name == "Shoulder_L") && !dead)
         {
-            print("sdfsdf");
+            print("damn2");
             anim.SetTrigger("Death");
             playerSound.Play(Hit);
         }
@@ -52,6 +52,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void Die()
     {
+        print("damn");
         Dead = true;
 
     }

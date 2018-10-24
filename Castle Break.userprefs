@@ -1,18 +1,27 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1\Scripts\NavMeshMovement.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\1\Scripts\PlayerHealth.cs">
     <Files>
-      <File FileName="Assets\1\Scripts\PlayerSound.cs" Line="1" Column="1" />
       <File FileName="Assets\1\Scripts\Sound.cs" Line="1" Column="1" />
       <File FileName="Assets\1\Scripts\PlayerMovement.cs" Line="1" Column="1" />
       <File FileName="Assets\1\Scripts\SoundManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\1\Scripts\NavMeshMovement.cs" Line="275" Column="4" />
+      <File FileName="Assets\1\Scripts\NavMeshMovement.cs" Line="324" Column="5" />
       <File FileName="Assets\1\Scripts\AgentAttack.cs" Line="1" Column="1" />
-      <File FileName="Assets\1\Scripts\GameManager_RoundWinner.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\GameManager_RoundWinner.cs" Line="5" Column="1" />
       <File FileName="Assets\1\Multiplayer\Door.cs" Line="1" Column="1" />
       <File FileName="Assets\1\Scripts\Main_Camera.cs" Line="1" Column="1" />
       <File FileName="Assets\1\Scripts\Gate.cs" Line="1" Column="1" />
       <File FileName="Assets\1\Scripts\ApplicationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\ChangeCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\PlayerHealth.cs" Line="38" Column="3" />
+      <File FileName="Assets\1\Scripts\Options.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\NetworkManagerMainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\Network.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\NavMeshController.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Multiplayer\shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Multiplayer\PlayerFirstEscape.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\1\Scripts\GameManager.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
